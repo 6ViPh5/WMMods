@@ -1,0 +1,192 @@
+{
+  "files": [
+    {
+      "path": "mods/alternate-current-mc1.21.5-1.9.0.jar",
+      "sha256": "c21f8e7ef00e5bbe36d2647a8da48fa107980bdc0d08615d3a70ea1325031576"
+    },
+    {
+      "path": "mods/architectury-17.0.6-fabric.jar",
+      "sha256": "85e8578a6629fbde45f2315f9fc3cc3ff21b3e22ab29fb07a0858c52a93a93a2"
+    },
+    {
+      "path": "mods/BadOptimizations-2.2.3-1.21.2-21.6.jar",
+      "sha256": "54149d0896fc150d33352c016c84364a76307127eaf40a86fd57564fce373ce0"
+    },
+    {
+      "path": "mods/badpackets-fabric-0.9.0.jar",
+      "sha256": "a6e06ef950482a7e494c9f98fe59975eba23d32d8ebb6f3da3207dc0f0f1eebe"
+    },
+    {
+      "path": "mods/balm-fabric-1.21.6-21.6.1.jar",
+      "sha256": "60e9b3a4b7f9400dfd15cf79456d22b8e61d046c2e91e6d93c05ebf03a6766ae"
+    },
+    {
+      "path": "mods/BombsAway-1.0.1+1.21.6.jar",
+      "sha256": "be85af3a81f79878e99008924bf1c56e2bdd4f06bef82f5cdf62bb7b6276acf0"
+    },
+    {
+      "path": "mods/c2me-fabric-mc1.21.6-0.3.4+alpha.0.42.jar",
+      "sha256": "a0bac94110f31a0c462517c362b5129928a76c6a6c40cccb2e3e1283e2b4ac93"
+    },
+    {
+      "path": "mods/CleanF3-mc1.20.x-0.4.9.jar",
+      "sha256": "fe48054b7ffa71f39db5c2b79d358c8969f0d93070849c8355a51eda7a445eb0"
+    },
+    {
+      "path": "mods/cloth-config-19.0.147-fabric.jar",
+      "sha256": "d8a6dca9d0dad1fe44622a3c6a0348641934e3943c8d425a26f112bce6debfa2"
+    },
+    {
+      "path": "mods/dynamiclights-v1.8.7-mc1.17-1.21.6-mod.jar",
+      "sha256": "65b982c02c0a8a5761a78aa7c5444edf36e64c5818f2378070470c2aa7041f50"
+    },
+    {
+      "path": "mods/EasyMagic-v21.6.0-1.21.6-Fabric.jar",
+      "sha256": "9250e6153d1ab718cd70bf7a6f7d9fd14ff556c1d8aa854ef53d1d2373a52ad0"
+    },
+    {
+      "path": "mods/entity_model_features_fabric_1.21.6-2.4.4.jar",
+      "sha256": "13233e25ec6d1ca294e0adeda40091c784f68973eea9cccd29cc338f23bf9402"
+    },
+    {
+      "path": "mods/entity_texture_features_fabric_1.21.6-6.2.14.jar",
+      "sha256": "c9cfc02f3d318afc6308da9a10dda438508406deafd09ecbd7455242e243fd9d"
+    },
+    {
+      "path": "mods/fabric-api-0.128.1+1.21.6.jar",
+      "sha256": "6611f591b1f5eabc7246404ae2b73eb9370acf12a5c1c95ae02e93543071cbe3"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+      "sha256": "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b"
+    },
+    {
+      "path": "mods/fallingleaves-2.0.0+1.21.5.jar",
+      "sha256": "bdd34a1cdd24440094f476291d3520a640b64b1cdef9eb7c82758fdd33c84b61"
+    },
+    {
+      "path": "mods/FallingTree-1.21.6-1.21.6.4.jar",
+      "sha256": "8f9ba958e3a5fc705d3c472bf52bac81855820b47f7b1486811421e73d124157"
+    },
+    {
+      "path": "mods/ferritecore-8.0.0-fabric.jar",
+      "sha256": "2b90bf00c2a5808c3c539712a55691191f8716d5bfa6eefaba35e9c4c5a28eea"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.6.4-1.21.6-Fabric.jar",
+      "sha256": "27b186f2e42f30b8acd0d3217003821e49ff80e8eab8dcdd72658ae2e3b285a7"
+    },
+    {
+      "path": "mods/Gamma-Utils-2.3.5+mc1.21.6.jar",
+      "sha256": "f81ea45e909d1c09428a4a4daee22ae34ca38a6688b3076b46507d8ece6c0d75"
+    },
+    {
+      "path": "mods/happy_airships-1.0.1.jar",
+      "sha256": "d90662121ee4fbdb3d8227f30fc663c7c7a6dfa31099c92438ee147cf63aad4a"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
+      "sha256": "27ed8530a2edcdac82cdc5ae14456b47578f76c1c26083d01e8095716c683401"
+    },
+    {
+      "path": "mods/iris-fabric-1.9.0+mc1.21.6.jar",
+      "sha256": "068f16db4dc7248e5a07ffa278dd7baa3c2506dd6ba5e76b46e29bf82957473d"
+    },
+    {
+      "path": "mods/journeymap-fabric-1.21.6-6.0.0-beta.52.jar",
+      "sha256": "1d273e5e735eb642100419ab7779e1596cbb9f33842b798db46b740f56122d13"
+    },
+    {
+      "path": "mods/krypton-0.2.9.jar",
+      "sha256": "b866226be1f60cf6b0650c41bb193becf30a7ec37c184519a37175cd9dcc63aa"
+    },
+    {
+      "path": "mods/language-reload-1.7.4+1.21.6.jar",
+      "sha256": "1126d67e96acdb66f0684f37da869c98dcbcacdea686782370c650e24cf7e39d"
+    },
+    {
+      "path": "mods/lithium-fabric-0.17.0+mc1.21.6.jar",
+      "sha256": "b435ff8f08db370aed7b0b0ac35f6774b575cd3de0170dbc8e0b1ad50f32630f"
+    },
+    {
+      "path": "mods/malilib-fabric-1.21.6-0.25.0.jar",
+      "sha256": "0c85c28aab29e16fe10dcceaa0d26b6bc2c7af20abf8af5757311bd4fdc7869d"
+    },
+    {
+      "path": "mods/midnightlib-1.7.5-fabric+1.21.6.jar",
+      "sha256": "9bcc697d2b192badc12d7965530dc8170671147941e553cef13b5c130cf2e746"
+    },
+    {
+      "path": "mods/minihud-fabric-1.21.6-0.36.0.jar",
+      "sha256": "d1e6f6cb2ca1800a487ae24470f0b949be5dd45213a3600960af194697fd1c73"
+    },
+    {
+      "path": "mods/modelfix-1.21.5-1.12-fabric.jar",
+      "sha256": "a04945f556e3a2edbbf0306ca6f2c1e36826d2f15948d8db73b00735cdc6f33c"
+    },
+    {
+      "path": "mods/modmenu-15.0.0-beta.3.jar",
+      "sha256": "c5785c03fe1f075563c8f108bbd638750eeb4a11b351a829317fa1acca1299ee"
+    },
+    {
+      "path": "mods/netherportalfix-fabric-1.21.6-21.6.1.jar",
+      "sha256": "3c3ccfda36ec746f528579aa868b61c9355eb9f7b6dcc62a70e55bbb6131fa11"
+    },
+    {
+      "path": "mods/placeholder-api-2.7.1+1.21.6.jar",
+      "sha256": "85ab9f70773fffe90972289ae44d033e8235d2148743263433e44262c217e0dd"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.6.6-1.21.6-Fabric.jar",
+      "sha256": "c48f3500b08e7bc0f70d7d7dd45222d813380a572997778c333bfb7151d84b10"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar",
+      "sha256": "bc140a2af0a3cf7dcb691be5d88263d9db87468d643a666ad6f881ddcb23482a"
+    },
+    {
+      "path": "mods/servercore-fabric-1.5.13+1.21.6.jar",
+      "sha256": "278335c825de5b4e4750965a86bf837a2f9c276dc20b1098a95d5eda939bfb4f"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.6.6+mc1.21.6.jar",
+      "sha256": "29eb93a5b402d3148577a6c31e05cabc9c92b12696ed342fd860e8d19c82fab1"
+    },
+    {
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.6.jar",
+      "sha256": "2e67812980688bf33447052c9ddfb820d07967bb3a3443f7865687fa0869118d"
+    },
+    {
+      "path": "mods/spark-1.10.139-fabric.jar",
+      "sha256": "a5dc1f41dcaeebdea6e99408226e17b5d4cdcacf3d759e9335821858de058b8a"
+    },
+    {
+      "path": "mods/TaxFreeLevels-1.4.10-fabric-1.21.5.jar",
+      "sha256": "14ef5b86c6034ef83da54eed4420ae57e9f8ee31011905569495aab63f17a7be"
+    },
+    {
+      "path": "mods/tcdcommons-3.12.8-beta.1+fabric-1.21.6.jar",
+      "sha256": "132e3ceeb114788b986c5fb4317017025dca941a806c9bcd3dfe39ab2dc4a64d"
+    },
+    {
+      "path": "mods/tnt-throw-2.2.1.jar",
+      "sha256": "b55b86daa19f539e35e9372a1c38eb457471c90570d7ae66a40249d7c2e976ff"
+    },
+    {
+      "path": "mods/viph-ideas-1.8.0.jar",
+      "sha256": "94cff6ad66a8b6eb8978ae2aae9cef2f7a988b078dc9f1abf0c3a74bd6560d08"
+    },
+    {
+      "path": "mods/visuality-0.7.10+1.21.5.jar",
+      "sha256": "738c915ff7b4a7ce2a3a5e5564cf789d0de154751fb1800dd4ea25cb2aa3e613"
+    },
+    {
+      "path": "mods/VisualWorkbench-v21.6.0-1.21.6-Fabric.jar",
+      "sha256": "9f48fa9f2cecb9a18a5057b44d84adedfab312735965232fcf778ffb23517964"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar",
+      "sha256": "7d71fbee0e2ca0f38a475309d23c9d084cd68edd4be6544eecdb5aec1f36d1ed"
+    }
+  ]
+}
