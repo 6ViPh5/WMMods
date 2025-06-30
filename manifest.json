@@ -114,4 +114,79 @@
     },
     {
       "path": "mods/midnightlib-1.7.5-fabric+1.21.6.jar",
-      "sha256": "9bcc697d2b192badc12d7965530dc
+      "sha256": "9bcc697d2b192badc12d7965530dc8170671147941e553cef13b5c130cf2e746"
+    },
+    {
+      "path": "mods/minihud-fabric-1.21.6-0.36.0.jar",
+      "sha256": "d1e6f6cb2ca1800a487ae24470f0b949be5dd45213a3600960af194697fd1c73"
+    },
+    {
+      "path": "mods/modelfix-1.21.5-1.12-fabric.jar",
+      "sha256": "a04945f556e3a2edbbf0306ca6f2c1e36826d2f15948d8db73b00735cdc6f33c"
+    },
+    {
+      "path": "mods/modmenu-15.0.0-beta.3.jar",
+      "sha256": "c5785c03fe1f075563c8f108bbd638750eeb4a11b351a829317fa1acca1299ee"
+    },
+    {
+      "path": "mods/netherportalfix-fabric-1.21.6-21.6.1.jar",
+      "sha256": "3c3ccfda36ec746f528579aa868b61c9355eb9f7b6dcc62a70e55bbb6131fa11"
+    },
+    {
+      "path": "mods/placeholder-api-2.7.1+1.21.6.jar",
+      "sha256": "85ab9f70773fffe90972289ae44d033e8235d2148743263433e44262c217e0dd"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.6.6-1.21.6-Fabric.jar",
+      "sha256": "c48f3500b08e7bc0f70d7d7dd45222d813380a572997778c333bfb7151d84b10"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar",
+      "sha256": "bc140a2af0a3cf7dcb691be5d88263d9db87468d643a666ad6f881ddcb23482a"
+    },
+    {
+      "path": "mods/servercore-fabric-1.5.13+1.21.6.jar",
+      "sha256": "278335c825de5b4e4750965a86bf837a2f9c276dc20b1098a95d5eda939bfb4f"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.6.6+mc1.21.6.jar",
+      "sha256": "29eb93a5b402d3148577a6c31e05cabc9c92b12696ed342fd860e8d19c82fab1"
+    },
+    {
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.6.jar",
+      "sha256": "2e67812980688bf33447052c9ddfb820d07967bb3a3443f7865687fa0869118d"
+    },
+    {
+      "path": "mods/spark-1.10.139-fabric.jar",
+      "sha256": "a5dc1f41dcaeebdea6e99408226e17b5d4cdcacf3d759e9335821858de058b8a"
+    },
+    {
+      "path": "mods/TaxFreeLevels-1.4.10-fabric-1.21.5.jar",
+      "sha256": "14ef5b86c6034ef83da54eed4420ae57e9f8ee31011905569495aab63f17a7be"
+    },
+    {
+      "path": "mods/tcdcommons-3.12.8-beta.1+fabric-1.21.6.jar",
+      "sha256": "132e3ceeb114788b986c5fb4317017025dca941a806c9bcd3dfe39ab2dc4a64d"
+    },
+    {
+      "path": "mods/tnt-throw-2.2.1.jar",
+      "sha256": "b55b86daa19f539e35e9372a1c38eb457471c90570d7ae66a40249d7c2e976ff"
+    },
+    {
+      "path": "mods/viph-ideas-1.8.0.jar",
+      "sha256": "94cff6ad66a8b6eb8978ae2aae9cef2f7a988b078dc9f1abf0c3a74bd6560d08"
+    },
+    {
+      "path": "mods/visuality-0.7.10+1.21.5.jar",
+      "sha256": "738c915ff7b4a7ce2a3a5e5564cf789d0de154751fb1800dd4ea25cb2aa3e613"
+    },
+    {
+      "path": "mods/VisualWorkbench-v21.6.0-1.21.6-Fabric.jar",
+      "sha256": "9f48fa9f2cecb9a18a5057b44d84adedfab312735965232fcf778ffb23517964"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar",
+      "sha256": "7d71fbee0e2ca0f38a475309d23c9d084cd68edd4be6544eecdb5aec1f36d1ed"
+    }
+  ]
+}
