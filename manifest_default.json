@@ -252,7 +252,7 @@
             {
                 "path": "mods/Essential_fabric.jar",
                 "manual": true
-            },
+            }
         ],
         "resourcepacks": [
             { "path": "resourcepacks/FA+All_Extensions-v1.5.2.zip"},
