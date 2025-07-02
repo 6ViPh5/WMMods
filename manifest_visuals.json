@@ -89,11 +89,6 @@
             "sha256": "c9cfc02f3d318afc6308da9a10dda438508406deafd09ecbd7455242e243fd9d"
         },
         {
-            "path": "mods/Essential_1-3-8-4_fabric_1-21-6.jar",
-            "sha256": "5249eac315a04050c49b7bd995a864df2498e83fe73d65af00cb7021d7e68b98"
-            "manual": "true"
-        },
-        {
             "path": "mods/fabric-api-0.128.2+1.21.6.jar",
             "sha256": "6e1d4547d7debd18da80532e561f02f167545219516af5b63c8a803a8f09822f"
         },
@@ -288,6 +283,24 @@
         {
             "path": "mods/yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar",
             "sha256": "7d71fbee0e2ca0f38a475309d23c9d084cd68edd4be6544eecdb5aec1f36d1ed"
-        }
+        },
+        {
+            "path": "mods/Essential_fabric.jar",
+            "manual": "true"
+        },
+    ],
+    "resourcepacks": [
+      {
+          "manual": "true"
+      }
+    ],
+    "config": [
+      {
+        "path": "config/sodium-options.json",
+        "sha1": "f1e0a943e8c89420f08967b575e52c237c86a6f1"
+      }
+    ]
+  }
+}
     ]
 }
