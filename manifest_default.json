@@ -250,7 +250,7 @@
         },
         {
             "path": "mods/Essential_fabric.jar",
-            "manual": "true"
+            "manual": true
         },
     ],
     "resourcepacks": [
