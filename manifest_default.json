@@ -5,6 +5,10 @@
             "sha256": "c21f8e7ef00e5bbe36d2647a8da48fa107980bdc0d08615d3a70ea1325031576"
         },
         {
+            "path": "mods/mru-1.0.18+1.21.6+fabric.jar",
+            "sha256": "43f1166a60345f751a35835cb287451c456aace1dd12b42f03d540efeff7d3ff"
+        },
+        {
             "path": "mods/animatica-0.6.1+1.21.5.jar",
             "sha256": "6091b255b7c4fe7d02aa1e20373a8a5d08b23af3bfcd81c75d7dce6678a804e9"
         },
