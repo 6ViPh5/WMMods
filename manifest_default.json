@@ -250,15 +250,44 @@
         },
     ],
     "resourcepacks": [
-      {
-          "manual": "true"
-      }
+      { "path": "resourcepacks/FA+All_Extensions-v1.5.2.zip"},
+      { "path": "resourcepacks/FreshAnimations_v1.9.4.zip"},
+      { "path": "resourcepacks/HumanEraVillagersIllagers[3.1].zip"},
+      { "path": "resourcepacks/LowOnFire v1.21.6§8.zip"}
+    ],
+    "shaderpacks": [
+      { "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"},
+      { "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"},
+      { "path": "shaderpacks/LIGHT-Shaders-1.1.2.zip"},
+      { "path": "shaderpacks/MakeUp-UltraFast-9.1f.zip"},
+      { "path": "shaderpacks/Radiance-v6.0.zip"},
+      { "path": "shaderpacks/Smoother Glowing v1.3.0.zip"},
+      { "path": "shaderpacks/Tricked Shader v1.2.zip"},
+      { "path": "shaderpacks/Visual-Vibrance-v0.3.2a.zip"},
+      { "path": "shaderpacks/miniature-shader-2.15.zip"}
     ],
     "config": [
-      {
-        "path": "config/sodium-options.json",
-        "sha1": "f1e0a943e8c89420f08967b575e52c237c86a6f1"
-      }
+      { "path": "config/sound_physics_remastered/allowed_sounds.properties" },
+      { "path": "config/sound_physics_remastered/occlusion.properties" },
+      { "path": "config/sound_physics_remastered/reflectivity.properties" },
+      { "path": "config/sound_physics_remastered/soundphysics.properties" },
+      { "path": "config/vcinteraction/vcinteraction.properties" },
+      { "path": "config/voicechat/voicechat-client.properties" },
+      { "path": "config/voicechat/voicechat-server.properties" },
+      { "path": "config/dynamiclights.json" },
+      { "path": "config/fallingtree.json" },
+      { "path": "config/gammautils.json" },
+      { "path": "config/moreshieldvariants.json" },        
+      { "path": "config/shulkerboxtooltip.json5" },
+      { "path": "config/spittingimage.json" }
+    ],
+    "journeymap": [
+      { "path": "journeymap/config/6.0/journeymap.core.config" },
+      { "path": "journeymap/config/6.0/journeymap.fullmap.config" },
+      { "path": "journeymap/config/6.0/journeymap.minimap.config" },
+      { "path": "journeymap/config/6.0/journeymap.minimap2.config" },
+      { "path": "journeymap/config/6.0/journeymap.rendering.config" },
+      { "path": "journeymap/config/6.0/journeymap.waypoint.config" },
     ]
   }
 }
