@@ -91,6 +91,7 @@
         {
             "path": "mods/Essential_1-3-8-4_fabric_1-21-6.jar",
             "sha256": "5249eac315a04050c49b7bd995a864df2498e83fe73d65af00cb7021d7e68b98"
+            "manual": "true"
         },
         {
             "path": "mods/fabric-api-0.128.2+1.21.6.jar",
