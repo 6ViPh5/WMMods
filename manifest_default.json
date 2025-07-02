@@ -9,10 +9,6 @@
             "sha256": "6091b255b7c4fe7d02aa1e20373a8a5d08b23af3bfcd81c75d7dce6678a804e9"
         },
         {
-            "path": "mods/appleskin-fabric-mc1.21.6-3.0.6.jar",
-            "sha256": "b82abe586851ba6dbb9bcd4d9270fbddcd519e855ea7bffe933ed45ab5158e21"
-        },
-        {
             "path": "mods/architectury-17.0.6-fabric.jar",
             "sha256": "85e8578a6629fbde45f2315f9fc3cc3ff21b3e22ab29fb07a0858c52a93a93a2"
         },
@@ -45,6 +41,10 @@
             "sha256": "be85af3a81f79878e99008924bf1c56e2bdd4f06bef82f5cdf62bb7b6276acf0"
         },
         {
+            "path": "mods/c2me-fabric-mc1.21.6-0.3.4+alpha.0.42.jar",
+            "sha256": "a0bac94110f31a0c462517c362b5129928a76c6a6c40cccb2e3e1283e2b4ac93"
+        },
+        {
             "path": "mods/CleanF3-mc1.20.x-0.4.9.jar",
             "sha256": "fe48054b7ffa71f39db5c2b79d358c8969f0d93070849c8355a51eda7a445eb0"
         },
@@ -71,6 +71,10 @@
         {
             "path": "mods/entity_texture_features_fabric_1.21.6-6.2.14.jar",
             "sha256": "c9cfc02f3d318afc6308da9a10dda438508406deafd09ecbd7455242e243fd9d"
+        },
+        {
+            "path": "mods/Essential_1-3-8-4_fabric_1-21-6.jar",
+            "sha256": "5249eac315a04050c49b7bd995a864df2498e83fe73d65af00cb7021d7e68b98"
         },
         {
             "path": "mods/fabric-api-0.128.2+1.21.6.jar",

@@ -45,6 +45,10 @@
             "sha256": "be85af3a81f79878e99008924bf1c56e2bdd4f06bef82f5cdf62bb7b6276acf0"
         },
         {
+            "path": "mods/c2me-fabric-mc1.21.6-0.3.4+alpha.0.42.jar",
+            "sha256": "a0bac94110f31a0c462517c362b5129928a76c6a6c40cccb2e3e1283e2b4ac93"
+        },
+        {
             "path": "mods/chatanimation-1.0.7.jar",
             "sha256": "524b8bfdcdb567e109ddd80ebd9e6c66e0cf6455cb869a9b440023dbdaa80963"
         },
@@ -79,6 +83,10 @@
         {
             "path": "mods/entity_texture_features_fabric_1.21.6-6.2.14.jar",
             "sha256": "c9cfc02f3d318afc6308da9a10dda438508406deafd09ecbd7455242e243fd9d"
+        },
+        {
+            "path": "mods/Essential_1-3-8-4_fabric_1-21-6.jar",
+            "sha256": "5249eac315a04050c49b7bd995a864df2498e83fe73d65af00cb7021d7e68b98"
         },
         {
             "path": "mods/fabric-api-0.128.2+1.21.6.jar",
