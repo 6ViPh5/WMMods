@@ -285,6 +285,10 @@
             "sha256": "7d71fbee0e2ca0f38a475309d23c9d084cd68edd4be6544eecdb5aec1f36d1ed"
         },
         {
+            "path": "mods/modmenu-badges-lib-2025.6.1.jar",
+            "sha256": "335378517c08bad2afd424e8590c01196de215c388795346df5ad30d9ec8dcd4"
+        },
+        {
             "path": "mods/Essential_fabric.jar",
             "manual": "true"
         },
