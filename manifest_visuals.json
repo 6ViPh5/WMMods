@@ -292,7 +292,7 @@
             {
                 "path": "mods/Essential_fabric.jar",
                 "manual": true
-            },
+            }
         ],
         "resourcepacks": [
             { "path": "resourcepacks/FA+All_Extensions-v1.5.2.zip"},
@@ -332,7 +332,7 @@
           { "path": "journeymap/config/6.0/journeymap.minimap.config" },
           { "path": "journeymap/config/6.0/journeymap.minimap2.config" },
           { "path": "journeymap/config/6.0/journeymap.rendering.config" },
-          { "path": "journeymap/config/6.0/journeymap.waypoint.config" },
+          { "path": "journeymap/config/6.0/journeymap.waypoint.config" }
         ]
     }
 }
