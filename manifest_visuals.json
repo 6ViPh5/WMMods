@@ -295,44 +295,44 @@
             }
         ],
         "resourcepacks": [
-            { "path": "resourcepacks/FA+All_Extensions-v1.5.2.zip"},
-            { "path": "resourcepacks/FreshAnimations_v1.9.4.zip"},
-            { "path": "resourcepacks/HumanEraVillagersIllagers[3.1].zip"},
-            { "path": "resourcepacks/LowOnFire v1.21.6§8.zip"}
+            {"path": "resourcepacks/FA+All_Extensions-v1.5.2.zip", "sha1":"8b0c34b81b414ca2878f3e7309ddd5bac76ba5a2"},
+            {"path": "resourcepacks/FreshAnimations_v1.9.4.zip", "sha1":"189ed78802c97efa0902bd1bb909181fba9e2eb9"},
+            {"path": "resourcepacks/HumanEraVillagersIllagers[3.1].zip", "sha1":"e3408e1f84a34a7b5d9459ec95044e8f3f385187"},
+            {"path": "resourcepacks/LowOnFire v1.21.6§8.zip", "sha1":"e925864843263208ea3abdb9544699d6832b0260"}
         ],
         "shaderpacks": [
-          { "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"},
-          { "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"},
-          { "path": "shaderpacks/LIGHT-Shaders-1.1.2.zip"},
-          { "path": "shaderpacks/MakeUp-UltraFast-9.1f.zip"},
-          { "path": "shaderpacks/Radiance-v6.0.zip"},
-          { "path": "shaderpacks/Smoother Glowing v1.3.0.zip"},
-          { "path": "shaderpacks/Tricked Shader v1.2.zip"},
-          { "path": "shaderpacks/Visual-Vibrance-v0.3.2a.zip"},
-          { "path": "shaderpacks/miniature-shader-2.15.zip"}
+            {"path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip", "sha1":"c9f1724fbe77e1d36afab9612b4aaac693bc84e4"},
+            {"path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip", "sha1":"52fdb332e6de592cceb8f85f2dc756eb78afab01"},
+            {"path": "shaderpacks/LIGHT-Shaders-1.1.2.zip", "sha1":"5b640ca5902c8a86c82e441cf40ae4d945d60976"},
+            {"path": "shaderpacks/MakeUp-UltraFast-9.1f.zip", "sha1":"7dc1a5857421a201ad27c356946927ec921ed896"},
+            {"path": "shaderpacks/miniature-shader-2.15.zip", "sha1":"192df366fd7780c1433f0b5f454db544d4fe6057"},
+            {"path": "shaderpacks/Radiance-v6.0.zip", "sha1":"2a0743d27e49e18f8bcf648b7518cc6ca8c11c35"},
+            {"path": "shaderpacks/Smoother Glowing v1.3.0.zip", "sha1":"e394a6c8d9210f2402202fdbe17c3a2f946c3770"},
+            {"path": "shaderpacks/Tricked Shader v1.2.zip", "sha1":"b8c6f51e15c2cfca7add256b6c2e66e5432665ed"},
+            {"path": "shaderpacks/Visual-Vibrance-v0.3.2a.zip", "sha1":"0773fdd2b79361c261ee81501777261e6813016e"}
         ],
         "config": [
-          { "path": "config/sound_physics_remastered/allowed_sounds.properties" },
-          { "path": "config/sound_physics_remastered/occlusion.properties" },
-          { "path": "config/sound_physics_remastered/reflectivity.properties" },
-          { "path": "config/sound_physics_remastered/soundphysics.properties" },
-          { "path": "config/vcinteraction/vcinteraction.properties" },
-          { "path": "config/voicechat/voicechat-client.properties" },
-          { "path": "config/voicechat/voicechat-server.properties" },
-          { "path": "config/dynamiclights.json" },
-          { "path": "config/fallingtree.json" },
-          { "path": "config/gammautils.json" },
-          { "path": "config/moreshieldvariants.json" },        
-          { "path": "config/shulkerboxtooltip.json5" },
-          { "path": "config/spittingimage.json" }
+            {"path": "config/sound_physics_remastered/allowed_sounds.properties"},
+            {"path": "config/sound_physics_remastered/occlusion.properties"},
+            {"path": "config/sound_physics_remastered/reflectivity.properties"},
+            {"path": "config/sound_physics_remastered/soundphysics.properties"},
+            {"path": "config/vcinteraction/vcinteraction.properties"},
+            {"path": "config/voicechat/voicechat-client.properties"},
+            {"path": "config/voicechat/voicechat-server.properties"},
+            {"path": "config/dynamiclights.json"},
+            {"path": "config/fallingtree.json"},
+            {"path": "config/gammautils.json"},
+            {"path": "config/moreshieldvariants.json"},        
+            {"path": "config/shulkerboxtooltip.json5"},
+            {"path": "config/spittingimage.json"}
         ],
         "journeymap": [
-          { "path": "journeymap/config/6.0/journeymap.core.config" },
-          { "path": "journeymap/config/6.0/journeymap.fullmap.config" },
-          { "path": "journeymap/config/6.0/journeymap.minimap.config" },
-          { "path": "journeymap/config/6.0/journeymap.minimap2.config" },
-          { "path": "journeymap/config/6.0/journeymap.rendering.config" },
-          { "path": "journeymap/config/6.0/journeymap.waypoint.config" }
+            {"path": "journeymap/config/6.0/journeymap.core.config"},
+            {"path": "journeymap/config/6.0/journeymap.fullmap.config"},
+            {"path": "journeymap/config/6.0/journeymap.minimap.config"},
+            {"path": "journeymap/config/6.0/journeymap.minimap2.config"},
+            {"path": "journeymap/config/6.0/journeymap.rendering.config"},
+            {"path": "journeymap/config/6.0/journeymap.waypoint.config"}
         ]
     }
 }
