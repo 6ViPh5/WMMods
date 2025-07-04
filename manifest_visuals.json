@@ -74,8 +74,8 @@
                 "sha256": "14571a95c331da474a8dd1d2eb1ae6749d1db53f47a1bdd71e233b054fc8d2fb"
             },
             {
-                "path": "mods/dynamiclights-v1.8.7-mc1.17-1.21.6-mod.jar",
-                "sha256": "65b982c02c0a8a5761a78aa7c5444edf36e64c5818f2378070470c2aa7041f50"
+                "path": "mods/dynamic-light-0.6.jar",
+                "sha256": "f08f9a351f1be951354270b3317e2ecde831cb898662dc5f0ebb731fb5712246"
             },
             {
                 "path": "mods/EasyMagic-v21.6.0-1.21.6-Fabric.jar",
@@ -319,7 +319,6 @@
             {"path": "config/vcinteraction/vcinteraction.properties"},
             {"path": "config/voicechat/voicechat-client.properties"},
             {"path": "config/voicechat/voicechat-server.properties"},
-            {"path": "config/dynamiclights.json"},
             {"path": "config/fallingtree.json"},
             {"path": "config/gammautils.json"},
             {"path": "config/moreshieldvariants.json"},        
