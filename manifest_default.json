@@ -250,6 +250,10 @@
                 "sha256": "335378517c08bad2afd424e8590c01196de215c388795346df5ad30d9ec8dcd4"
             },
             {
+                "path": "mods/EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar",
+                "sha256": "8c54a994a344e736f98ec63f72ad6443b4b051ddeb6e58f7ecfe6a706ae67de6"
+            },
+            {
                 "path": "mods/Essential_fabric.jar",
                 "manual": true
             }
