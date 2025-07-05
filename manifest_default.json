@@ -62,8 +62,8 @@
                 "sha256": "09b048951800916aba43453d1a9615ad11608f2619d44f471c3396ca90aac3a3"
             },
             {
-                "path": "mods/dynamic-light-0.6.jar",
-                "sha256": "f08f9a351f1be951354270b3317e2ecde831cb898662dc5f0ebb731fb5712246"
+                "path": "mods/dynamiclights-v1.8.8-mc1.17-1.21.7-mod.jar",
+                "sha256": "53d3e24a6742f066173d9f064c28d5c973baed94e1f41dddfc745a938dcd3a38"
             },
             {
                 "path": "mods/EasyMagic-v21.6.0-1.21.6-Fabric.jar",
