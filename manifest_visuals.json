@@ -2,6 +2,14 @@
     "files": {
         "mods": [
             {
+                "path": "mods/accurate-block-placement-1.3.8-mc1.21.2-1.21.6.jar",
+                "sha256": "1f2be1702aeaead947d10f81eeb6aaba0a19121c559665c470245bb62e1a9856"
+            },
+            {
+                "path": "mods/toggleableitemframes-5.1.1-1.21.6.jar",
+                "sha256": "e437233014438aa838d974d5f1eae87a9c52a5daf284185a3c0dea196471871d"
+            },
+            {
                 "path": "mods/alternate-current-mc1.21.5-1.9.0.jar",
                 "sha256": "c21f8e7ef00e5bbe36d2647a8da48fa107980bdc0d08615d3a70ea1325031576"
             },
