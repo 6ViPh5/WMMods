@@ -327,7 +327,8 @@
             {"path": "config/gammautils.json"},
             {"path": "config/moreshieldvariants.json"},        
             {"path": "config/shulkerboxtooltip.json5"},
-            {"path": "config/spittingimage.json"}
+            {"path": "config/spittingimage.json"},
+            {"path": "config/dynamiclights.json"}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config"},
