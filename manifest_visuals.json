@@ -6,6 +6,18 @@
                 "sha256": "1f2be1702aeaead947d10f81eeb6aaba0a19121c559665c470245bb62e1a9856"
             },
             {
+                "path": "mods/partialhearts-fabric-1.0.2-1.21.6.jar",
+                "sha256": "35be506f9fe8ce71ea995d77b1050f585c131f4fb45a75edb423075c271f2ec2"
+            },
+            {
+                "path": "mods/particle-rain-3.3.6.jar",
+                "sha256": "8dffb420a5041bb74b807fd4ebcaf12a9e34c6eaff6a226402ec294d14654edd"
+            },
+            {
+                "path": "mods/Resourcify (1.21.6-fabric)-1.7.3.jar",
+                "sha256": "25397d1a8f77d224f07cc485c8193c22afc9f8edff23881ee9e59c4ae67e84c7"
+            },
+            {
                 "path": "mods/toggleableitemframes-5.1.1-1.21.6.jar",
                 "sha256": "e437233014438aa838d974d5f1eae87a9c52a5daf284185a3c0dea196471871d"
             },
@@ -311,10 +323,35 @@
             }
         ],
         "resourcepacks": [
-            {"path": "resourcepacks/FA+All_Extensions-v1.5.2.zip", "sha1":"8b0c34b81b414ca2878f3e7309ddd5bac76ba5a2"},
-            {"path": "resourcepacks/FreshAnimations_v1.9.4.zip", "sha1":"189ed78802c97efa0902bd1bb909181fba9e2eb9"},
-            {"path": "resourcepacks/HumanEraVillagersIllagers[3.1].zip", "sha1":"e3408e1f84a34a7b5d9459ec95044e8f3f385187"},
-            {"path": "resourcepacks/LowOnFire v1.21.6§8.zip", "sha1":"e925864843263208ea3abdb9544699d6832b0260"}
+            {
+                "path": "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip",
+                "sha1": "5bbfbc64d6a187d85344b2f1f446e3fff4210c39"
+            },
+            {
+                "path": "resourcepacks/Dragon Battle Music (True Ending.zip",
+                "sha1": "06370ee1d14ae0be951c6eb7d7c394d4e92a2392"
+            },
+            {
+                "path": "resourcepacks/LowOnFire v1.21.6\u00a78.zip",
+                "sha1": "e925864843263208ea3abdb9544699d6832b0260"
+            },
+            {
+                "path": "resourcepacks/VanillaEvolved_1.21.0.zip",
+                "sha1": "48cb928250fc8bdfe61fa042963dd72af64f8d7f"
+            },
+            {
+                "path": "resourcepacks/[1.3] Dragon Battle Music (Khazad-Dum LOTR).zip",
+                "sha1": "757ef7d6862ea7e1b0ebbd14fb6eeb9c5a2bf629"
+            },
+            {
+                "path": "resourcepacks/[1.3] Dragon Battle Music (Oppenheimer).zip",
+                "sha1": "65c830b5f4adf8b3038eaa21c3c339512d64efd1"
+            },
+            {
+                "path": "resourcepacks/\u00a7a\u00a7lVocal Villagers \u00a7r\u00a771.2.zip",
+                "sha1": "768d19c0550be6a13ee258a32562bdf16f97a39c"
+            }
+
         ],
         "shaderpacks": [
             {"path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip", "sha1":"c9f1724fbe77e1d36afab9612b4aaac693bc84e4"},
@@ -340,7 +377,8 @@
             {"path": "config/moreshieldvariants.json"},        
             {"path": "config/shulkerboxtooltip.json5"},
             {"path": "config/spittingimage.json"},
-            {"path": "config/dynamiclights.json"}
+            {"path": "config/dynamiclights.json"},
+            {"path": "config/hold-my-items.json"}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config"},
