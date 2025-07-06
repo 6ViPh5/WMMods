@@ -2,6 +2,10 @@
     "files": {
         "mods": [
             {
+                "path": "mods/Resourcify (1.21.6-fabric)-1.7.3.jar",
+                "sha256": "25397d1a8f77d224f07cc485c8193c22afc9f8edff23881ee9e59c4ae67e84c7"
+            },
+            {
                 "path": "mods/accurate-block-placement-1.3.8-mc1.21.2-1.21.6.jar",
                 "sha256": "1f2be1702aeaead947d10f81eeb6aaba0a19121c559665c470245bb62e1a9856"
             },
