@@ -150,10 +150,6 @@
                 "sha256": "d90662121ee4fbdb3d8227f30fc663c7c7a6dfa31099c92438ee147cf63aad4a"
             },
             {
-                "path": "mods/HMI_4.4_1.21.5.jar",
-                "sha256": "80728738eb3283bf1b7202fe1ddd32961e8867cb66b3ef384ff9a6f82f4eede9"
-            },
-            {
                 "path": "mods/ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
                 "sha256": "27ed8530a2edcdac82cdc5ae14456b47578f76c1c26083d01e8095716c683401"
             },
@@ -369,8 +365,7 @@
             {"path": "config/moreshieldvariants.json"},        
             {"path": "config/shulkerboxtooltip.json5"},
             {"path": "config/spittingimage.json"},
-            {"path": "config/dynamiclights.json"},
-            {"path": "config/hold-my-items.json"}
+            {"path": "config/dynamiclights.json"}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config"},
