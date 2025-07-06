@@ -10,6 +10,14 @@
                 "sha256": "e437233014438aa838d974d5f1eae87a9c52a5daf284185a3c0dea196471871d"
             },
             {
+                "path": "mods/BetterEnchantmentGlint-1.21.6-2.3.jar",
+                "sha256": "4237b42c00ac7c2dd4785bfc9d30a1ad94b56b86f9d630679287e30c9a3b0faa"
+            },
+            {
+                "path": "mods/ismah-fabric-1.21.6-2.2.0-1.21.(6,7).jar",
+                "sha256": "ad850732b6abb50be43699beaaaf39f1fd56bbd0412cbc83ff5b1e5b6680aed2"
+            },
+            {
                 "path": "mods/alternate-current-mc1.21.5-1.9.0.jar",
                 "sha256": "c21f8e7ef00e5bbe36d2647a8da48fa107980bdc0d08615d3a70ea1325031576"
             },
@@ -140,10 +148,6 @@
             {
                 "path": "mods/iris-fabric-1.9.1+mc1.21.7.jar",
                 "sha256": "0e6bd470311cc938b992e9065e0f94a3f603b68b5dfcde25102c64b8733b69bd"
-            },
-            {
-                "path": "mods/ismah-fabric-2.2.0-1.21.(5).jar",
-                "sha256": "9f725562d3a36ff5801ad7d248c13c96c14b45224aa74753674a2290093d9005"
             },
             {
                 "path": "mods/jamlib-fabric-1.3.5+1.21.6.jar",
