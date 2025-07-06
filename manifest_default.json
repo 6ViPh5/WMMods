@@ -266,15 +266,15 @@
                 "sha256": "8c54a994a344e736f98ec63f72ad6443b4b051ddeb6e58f7ecfe6a706ae67de6"
             },
             {
+                "path": "mods/geckolib-fabric-1.21.6-5.2.0.jar",
+                "sha256": "71a1078d25702d2330feddd914422cd9d45c0ea867eea96bc9c6ad0879449d0a"
+            },
+            {
                 "path": "mods/Essential_fabric.jar",
                 "manual": true
             }
         ],
         "resourcepacks": [
-            {
-                "path": "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip",
-                "sha1": "5bbfbc64d6a187d85344b2f1f446e3fff4210c39"
-            },
             {
                 "path": "resourcepacks/Dragon Battle Music (True Ending.zip",
                 "sha1": "06370ee1d14ae0be951c6eb7d7c394d4e92a2392"
@@ -290,6 +290,14 @@
             {
                 "path": "resourcepacks/\u00a7a\u00a7lVocal Villagers \u00a7r\u00a771.2.zip",
                 "sha1": "768d19c0550be6a13ee258a32562bdf16f97a39c"
+            },
+            {
+                "path": "resourcepacks/Better_Animations.zip",
+                "sha1": "62b48da6217373143beeae0c473bd8392e24dc0a"
+            },
+            {
+                "path": "resourcepacks/\u00a7fReanimated \u00a73Blue \u00a77v0.08.zip",
+                "sha1": "511cc6f806fabcf8f591b4d9b8312f9ee52ac247"
             }
         ],
         "shaderpacks": [
