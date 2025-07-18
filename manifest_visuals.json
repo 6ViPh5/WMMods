@@ -4,8 +4,9 @@
     "files": {
         "mods": [
             {
-                "path": "mods/accurate-block-placement-1.3.8-mc1.21.2-1.21.6.jar",
-                "sha256": "1f2be1702aeaead947d10f81eeb6aaba0a19121c559665c470245bb62e1a9856"
+                "path": "mods/accurate-block-placement-1.3.9-mc1.21.2-1.21.7.jar",
+                "sha256": "16e65c08b265e9da599b769d687b8339557ad447ed44a45b2f523ecf3f5ba2b1"
+
             },
             {
                 "path": "mods/partialhearts-fabric-1.0.2-1.21.6.jar",
@@ -28,8 +29,8 @@
                 "sha256": "4237b42c00ac7c2dd4785bfc9d30a1ad94b56b86f9d630679287e30c9a3b0faa"
             },
             {
-                "path": "mods/ismah-fabric-1.21.6-2.2.0-1.21.(6,7).jar",
-                "sha256": "ad850732b6abb50be43699beaaaf39f1fd56bbd0412cbc83ff5b1e5b6680aed2"
+                "path": "mods/ismah-fabric-2.2.1-1.21.5(7).jar",
+                "sha256": "c6e8b4f7a0fb437cc4656190e1a326e9900da3b35a92275ec5b0cefbec85414a"
             },
             {
                 "path": "mods/alternate-current-mc1.21.5-1.9.0.jar",
@@ -56,8 +57,8 @@
                 "sha256": "e4cce28d53d5e3622a05f1e1f99023f2be599e2d218ebb2e4cf109bde0e5018b"
             },
             {
-                "path": "mods/BadOptimizations-2.2.3-1.21.2-21.6.jar",
-                "sha256": "54149d0896fc150d33352c016c84364a76307127eaf40a86fd57564fce373ce0"
+                "path": "mods/BadOptimizations-2.3.0-1.21.6-21.7.jar",
+                "sha256": "5a1f1d8bfcd44d82f5b87410348b18b7ecd916ba9227a9a3520db91b8878d2b2"
             },
             {
                 "path": "mods/badpackets-fabric-0.9.0.jar",
@@ -96,8 +97,8 @@
                 "sha256": "d8a6dca9d0dad1fe44622a3c6a0348641934e3943c8d425a26f112bce6debfa2"
             },
             {
-                "path": "mods/critterarmory-1.21.7-0.6.3-fabric.jar",
-                "sha256": "09b048951800916aba43453d1a9615ad11608f2619d44f471c3396ca90aac3a3"
+                "path": "mods/critterarmory-1.21.8-0.6.3-fabric.jar",
+                "sha256": "76512741505159a96be5652b3aee595e5e98d78554c66c90c11d5f4503acfb17"
             },
             {
                 "path": "mods/Drip Sounds-0.5.1+1.21.5-Fabric.jar",
@@ -152,16 +153,16 @@
                 "sha256": "d90662121ee4fbdb3d8227f30fc663c7c7a6dfa31099c92438ee147cf63aad4a"
             },
             {
-                "path": "mods/ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
-                "sha256": "27ed8530a2edcdac82cdc5ae14456b47578f76c1c26083d01e8095716c683401"
+                "path": "mods/ImmediatelyFast-Fabric-1.10.2+1.21.6.jar",
+                "sha256": "47dddd6501469b683e636fdc87916b56719d0ced3601c95fea3864841765829d"
             },
             {
                 "path": "mods/iris-fabric-1.9.1+mc1.21.7.jar",
                 "sha256": "0e6bd470311cc938b992e9065e0f94a3f603b68b5dfcde25102c64b8733b69bd"
             },
             {
-                "path": "mods/jamlib-fabric-1.3.5+1.21.6.jar",
-                "sha256": "3aad93d3019d98b116f4a3466eac7dd680b0b4bc9f04ee44d6d84840cd5de719"
+                "path": "mods/jamlib-fabric-1.3.5+1.21.7.jar",
+                "sha256": "be769a200778a1b4307fc9a5781fba19759449e468a83ccb27ac79961c77ebed"
             },
             {
                 "path": "mods/journeymap-fabric-1.21.6-6.0.0-beta.52.jar",
@@ -184,8 +185,8 @@
                 "sha256": "b435ff8f08db370aed7b0b0ac35f6774b575cd3de0170dbc8e0b1ad50f32630f"
             },
             {
-                "path": "mods/malilib-fabric-1.21.7-0.25.1.jar",
-                "sha256": "b64f074ad555965a6f800bd10a8c78afeac9d41067e08ffa68980a5bd939f029"
+                "path": "mods/malilib-fabric-1.21.8-0.25.3.jar",
+                "sha256": "48a0feb921460eee845fa755fe87c939143f8761a1933bcdc257b0832ecdb91c"
             },
             {
                 "path": "mods/midnightlib-1.7.5-fabric+1.21.6.jar",
@@ -193,7 +194,7 @@
             },
             {
                 "path": "mods/minihud-fabric-1.21.7-0.36.1.jar",
-                "sha256": "0a51751c661ad94dba1d373031f89f6e52d123f77e6e235c836999c7cae4a5be"
+                "sha256": "ad6985d002831e40f32788716f7849338fa7905032ef26f02658e0cefe16c986"
             },
             {
                 "path": "mods/modelfix-1.21.5-1.12-fabric.jar",
@@ -213,7 +214,7 @@
             },
             {
                 "path": "mods/notenoughanimations-fabric-1.10.0-mc1.21.6.jar",
-                "sha256": "83bb9fe1fcf3a928d2c790a1e756fa78f0294fccfc2a9159bb359b645f1bea4c"
+                "sha256": "077b2513e7a233fea45b0d473d5adbec6d522758a45c50b935d2d1fb77bb618b"
             },
             {
                 "path": "mods/placeholder-api-2.7.1+1.21.6.jar",
@@ -228,8 +229,8 @@
                 "sha256": "bc140a2af0a3cf7dcb691be5d88263d9db87468d643a666ad6f881ddcb23482a"
             },
             {
-                "path": "mods/rightclickharvest-fabric-4.5.3+1.21.6.jar",
-                "sha256": "2209d4dbf87040f9b5bfef2c6f03f4e8a0876ec8e72cb16717ae2f1052f385f6"
+                "path": "mods/rightclickharvest-fabric-4.5.3+1.21.7.jar",
+                "sha256": "1db5e117b4b191c80153951842b898130bfa5d8b5d9cb155d30600d682254ba2"
             },
             {
                 "path": "mods/servercore-fabric-1.5.13+1.21.6.jar",
