@@ -4,6 +4,11 @@
     "files": {
         "mods": [
             {
+                "path": "mods/waveycapes-fabric-1.6.1.1-mc1.21.6.jar",
+                "sha256": "b844d7e74c7320fe4b9333f481aee29d5bbdfe53bc6d4d6af92285161fe20ca4",
+                "profiles": ["visuals"]
+            },
+            {
                 "path": "mods/fzzy_config-0.7.1+1.21.6.jar",
                 "sha256": "cb6d1f28de8d033a50584cfba5d58f6075f514bb0a2d5afe074390e70d1d860d",
                 "profiles": ["visuals"]
@@ -467,6 +472,11 @@
             {"path": "shaderpacks/Visual-Vibrance-v0.3.2a.zip", "sha1":"0773fdd2b79361c261ee81501777261e6813016e", "profiles": ["default", "visuals"]}
         ],
         "config": [
+            {"path": "config/subtle_effects/blocks.toml", "profiles": ["default", "visuals"]},
+            {"path": "config/subtle_effects/entities.toml", "profiles": ["default", "visuals"]},
+            {"path": "config/subtle_effects/environment.toml", "profiles": ["default", "visuals"]},
+            {"path": "config/subtle_effects/general.toml", "profiles": ["default", "visuals"]},
+            {"path": "config/subtle_effects/items.toml", "profiles": ["default", "visuals"]}
             {"path": "config/sound_physics_remastered/allowed_sounds.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/occlusion.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/reflectivity.properties", "profiles": ["default", "visuals"]},
