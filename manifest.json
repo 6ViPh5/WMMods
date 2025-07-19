@@ -476,7 +476,7 @@
             {"path": "config/subtle_effects/entities.toml", "profiles": ["default", "visuals"]},
             {"path": "config/subtle_effects/environment.toml", "profiles": ["default", "visuals"]},
             {"path": "config/subtle_effects/general.toml", "profiles": ["default", "visuals"]},
-            {"path": "config/subtle_effects/items.toml", "profiles": ["default", "visuals"]}
+            {"path": "config/subtle_effects/items.toml", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/allowed_sounds.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/occlusion.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/reflectivity.properties", "profiles": ["default", "visuals"]},
