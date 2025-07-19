@@ -4,6 +4,11 @@
     "files": {
         "mods": [
             {
+                "path": "mods/fzzy_config-0.7.1+1.21.6.jar",
+                "sha256": "cb6d1f28de8d033a50584cfba5d58f6075f514bb0a2d5afe074390e70d1d860d",
+                "profiles": ["visuals"]
+            },
+            {
                 "path": "mods/eg_particle_interactions-0.7.1-fabric-mc1.21.6.jar",
                 "sha256": "266853c6279265a2bfb5a90b43dbb5d617206039b8aebd65256a8bf5669f34c0",
                 "profiles": ["visuals"]
