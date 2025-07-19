@@ -345,11 +345,6 @@
        		    "profiles": ["visuals"]
             },
             {
-                "path": "mods/sounds-2.4.12+1.21.6+fabric.jar",
-                "sha256": "9a1c905b7cc080b7beab8c7cefebe5d4b5e9e1a4583acdc5e894dab717ecee8e",
-       		    "profiles": ["visuals"]
-            },
-            {
                 "path": "mods/spark-1.10.140-fabric.jar",
                 "sha256": "66d6c264962d6895933bc89287aeac31287ceb085d06bb63b59db8d0b743adaf",
        		    "profiles": ["default", "visuals"]
