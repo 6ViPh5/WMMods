@@ -480,7 +480,6 @@
             {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-server.properties", "profiles": ["default", "visuals"]},
             {"path": "config/fallingtree.json", "profiles": ["default", "visuals"]},
-            {"path": "config/gammautils.json", "profiles": ["default", "visuals"]},
             {"path": "config/moreshieldvariants.json", "profiles": ["default", "visuals"]},        
             {"path": "config/shulkerboxtooltip.json5", "profiles": ["default", "visuals"]},
             {"path": "config/spittingimage.json", "profiles": ["default", "visuals"]},
