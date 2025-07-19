@@ -7,7 +7,7 @@
                 "path": "mods/eg_particle_interactions-0.7.1-fabric-mc1.21.6.jar",
                 "sha256": "266853c6279265a2bfb5a90b43dbb5d617206039b8aebd65256a8bf5669f34c0",
                 "profiles": ["visuals"]
-            }
+            },
             {
                 "path": "mods/coolrain-1.2.0-1.21.6.jar",
                 "sha256": "61a786261e56c6722f7a34281b7a6122a3ba7ffa9bc077c20900d2932a409346",
