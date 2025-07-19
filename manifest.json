@@ -210,11 +210,6 @@
        		    "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/Gamma-Utils-2.3.5+mc1.21.6.jar",
-                "sha256": "f81ea45e909d1c09428a4a4daee22ae34ca38a6688b3076b46507d8ece6c0d75",
-       		    "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/happy_airships-1.0.1.jar",
                 "sha256": "d90662121ee4fbdb3d8227f30fc663c7c7a6dfa31099c92438ee147cf63aad4a",
        		    "profiles": ["default", "visuals"]
