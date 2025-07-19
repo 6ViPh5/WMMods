@@ -265,7 +265,7 @@
        		    "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/minihud-fabric-1.21.7-0.36.1.jar",
+                "path": "mods/minihud-fabric-1.21.8-0.36.3.jar",
                 "sha256": "ad6985d002831e40f32788716f7849338fa7905032ef26f02658e0cefe16c986",
        		    "profiles": ["default", "visuals"]
             },
@@ -290,7 +290,7 @@
        		    "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/notenoughanimations-fabric-1.10.0-mc1.21.6.jar",
+                "path": "mods/notenoughanimations-fabric-1.10.1-mc1.21.6.jar",
                 "sha256": "077b2513e7a233fea45b0d473d5adbec6d522758a45c50b935d2d1fb77bb618b",
        		    "profiles": ["visuals"]
             },
