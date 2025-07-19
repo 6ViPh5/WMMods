@@ -4,6 +4,11 @@
     "files": {
         "mods": [
             {
+                "path": "mods/sodium-fullbright-1.0.1.jar",
+                "sha256": "8b3d648a09b4a1c5d078bb502a3e9393ab35630b67acd2c86896d5d89281d2d4",
+       		    "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/waveycapes-fabric-1.6.1.1-mc1.21.6.jar",
                 "sha256": "b844d7e74c7320fe4b9333f481aee29d5bbdfe53bc6d4d6af92285161fe20ca4",
                 "profiles": ["visuals"]
