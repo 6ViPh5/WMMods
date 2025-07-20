@@ -431,6 +431,11 @@
                 "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
                 "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
        		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/mcwifipnp-1.9.0-1.21.6-fabric.jar",
+                "sha256": "b9c6eb2f96fe2259adef4793484fd679c5c61941e95a987e52166eda878a88d5",
+       		    "profiles": ["default", "visuals"]
             }
         ],
         "resourcepacks": [
