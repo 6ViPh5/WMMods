@@ -431,6 +431,12 @@
                 "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
                 "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
        		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/world-host-0.5.2+1.21.5-fabric.jar",
+                "sha256": "c2f386805a8679ad470828faba0993038154ac99a31564dba0ea9cfc72601e83",
+                "manual": "true",
+       		    "profiles": ["default", "visuals"]
             }
         ],
         "resourcepacks": [
