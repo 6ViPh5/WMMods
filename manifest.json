@@ -26,7 +26,7 @@
             {
                 "path": "mods/coolrain-1.2.0-1.21.6.jar",
                 "sha256": "61a786261e56c6722f7a34281b7a6122a3ba7ffa9bc077c20900d2932a409346",
-       		    "profiles": ["visuals"]
+       		    "profiles": ["default", "visuals"]
             },
             {
                 "path": "mods/make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4.jar",
