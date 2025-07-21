@@ -365,11 +365,6 @@
        		    "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/tnt-throw-2.2.1.jar",
-                "sha256": "b55b86daa19f539e35e9372a1c38eb457471c90570d7ae66a40249d7c2e976ff",
-       		    "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/tru.e-ending-v1.1.4b-1.21.2-5.jar",
                 "sha256": "586ca0a7d70c8918b7f2b87187f31e127af0662cd7a6409c51431ecb6a703b67",
        		    "profiles": ["default", "visuals"]
