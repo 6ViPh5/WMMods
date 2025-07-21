@@ -285,11 +285,6 @@
        		    "profiles": ["visuals"]
             },
             {
-                "path": "mods/partialhearts-fabric-1.0.2-1.21.6.jar",
-                "sha256": "35be506f9fe8ce71ea995d77b1050f585c131f4fb45a75edb423075c271f2ec2",
-       		    "profiles": ["visuals"]
-            },
-            {
                 "path": "mods/particle-rain-3.3.6.jar",
                 "sha256": "8dffb420a5041bb74b807fd4ebcaf12a9e34c6eaff6a226402ec294d14654edd",
        		    "profiles": ["visuals"]
