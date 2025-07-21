@@ -225,11 +225,6 @@
        		    "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/lava-chicken-music-disc-1.0.0.jar",
-                "sha256": "f6f1b1eaecd42668eb419c8a3a0d0ca3bed1cef8a1a55642c9dc08848cc191b6",
-       		    "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/lithium-fabric-0.18.0+mc1.21.7.jar",
                 "sha256": "b94c17105a99699be2912bf62db7e34fe2f0263247d4982e440cf0a6613026a1",
        		    "profiles": ["default", "visuals"]
@@ -267,11 +262,6 @@
             {
                 "path": "mods/modmenu-15.0.0-beta.3.jar",
                 "sha256": "c5785c03fe1f075563c8f108bbd638750eeb4a11b351a829317fa1acca1299ee",
-       		    "profiles": ["default", "visuals"]
-            },
-            {
-                "path": "mods/modmenu-badges-lib-2025.6.1.jar",
-                "sha256": "335378517c08bad2afd424e8590c01196de215c388795346df5ad30d9ec8dcd4",
        		    "profiles": ["default", "visuals"]
             },
             {
@@ -395,7 +385,7 @@
        		    "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/tru.e-ending-v1.1.4b-1.21.2-5.jar",
+                "path": "mods/tru.e-ending-v1.1.4b.jar",
                 "sha256": "586ca0a7d70c8918b7f2b87187f31e127af0662cd7a6409c51431ecb6a703b67",
        		    "profiles": ["default", "visuals"]
             },
