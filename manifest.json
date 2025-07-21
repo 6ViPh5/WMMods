@@ -2,6 +2,11 @@
     "files": {
         "mods": [
             {
+                "path": "mods/viph-ideas-2.1.jar",
+                "sha256": "461e13ba6d6dee8dc37081fdb536c1fd84505e2a21e1306606e67b7cf112aa93",
+       		    "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/accurate-block-placement-1.3.9-mc1.21.2-1.21.7.jar",
                 "sha256": "16e65c08b265e9da599b769d687b8339557ad447ed44a45b2f523ecf3f5ba2b1",
        		    "profiles": ["default", "visuals"]
