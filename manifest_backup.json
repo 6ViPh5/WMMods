@@ -435,6 +435,31 @@
                 "path": "resourcepacks/\u00a7a\u00a7lVocal Villagers \u00a7r\u00a771.2.zip",
                 "sha1": "768d19c0550be6a13ee258a32562bdf16f97a39c",
        		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "resourcepacks/Enchantment Configs.zip",
+                "sha1": "0c1f3166ca456f30ab3d511e31211c9c500a6bcd",
+       		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "resourcepacks/Enchantment-Outline 1.7.4.zip",
+                "sha1": "11722d69722360dcc5f4549debad95646fef56fb",
+       		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "resourcepacks/FA+All_Extensions-v1.5.2.zip",
+                "sha1": "8b0c34b81b414ca2878f3e7309ddd5bac76ba5a2",
+       		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "resourcepacks/Soft-Weather-1.0-Universal.zip",
+                "sha1": "a47863b55f54b94473295960ca69f3e35d3ba4d0",
+       		    "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "resourcepacks/ToolTips-Stylized_v1.1_1.20+-1.21+.zip",
+                "sha1": "bb4827b5fc3f2e52dcf1882b55b0f85f6d81afbd",
+       		    "profiles": ["default", "visuals"]
             }
         ],
         "shaderpacks": [
@@ -492,6 +517,8 @@
             {"path": "config/shulkerboxtooltip.json5", "profiles": ["default", "visuals"]},
             {"path": "config/spittingimage.json", "profiles": ["default", "visuals"]},
             {"path": "config/dynamiclights.json", "profiles": ["default", "visuals"]},
+            {"path": "config/minihud.json", "profiles": ["default", "visuals"]},
+            {"path": "options.txt", "profiles": ["default", "visuals"]},
             {"path": "essential/config.toml", "profiles": ["default", "visuals"], "id": "essentials"}
         ],
         "journeymap": [
