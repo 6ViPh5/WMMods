@@ -8,6 +8,15 @@
         ],
         "mods": [
             {
+                "path": "mods/CraftPresence-2.6.1+1.21.8-fabric.jar",
+                "sha256": "0b6388754cc1b6cfcfb63e860882a08ab00c005a84a01310b17cc11f49705eca",
+                "profiles": ["default", "visuals"]
+            },            {
+                "path": "mods/UniLib-1.1.0+1.21.8-fabric.jar",
+                "sha256": "11eb0ea3b87665e4c5ddfd85c9b95ee958a15ad86f1fc7e5f4a682dd2bd3f81d",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/viph-ideas-2.1.jar",
                 "sha256": "461e13ba6d6dee8dc37081fdb536c1fd84505e2a21e1306606e67b7cf112aa93",
                 "profiles": ["default", "visuals"]
