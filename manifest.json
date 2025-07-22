@@ -1,5 +1,11 @@
 {
     "files": {
+        "options": [
+            {
+                "path": "options.txt",
+                "profiles": ["default", "visuals"]
+            }
+        ],
         "mods": [
             {
                 "path": "mods/viph-ideas-2.1.jar",
