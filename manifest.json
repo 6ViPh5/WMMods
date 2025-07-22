@@ -537,7 +537,13 @@
             {"path": "config/shulkerboxtooltip.json5", "profiles": ["default", "visuals"]},
             {"path": "config/spittingimage.json", "profiles": ["default", "visuals"]},
             {"path": "config/dynamiclights.json", "profiles": ["default", "visuals"]},
-            {"path": "config/minihud.json", "profiles": ["default", "visuals"]}
+            {"path": "config/minihud.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-extra-options.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-extra.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-fingerprint.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config", "profiles": ["default", "visuals"]},
