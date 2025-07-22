@@ -518,7 +518,6 @@
             {"path": "config/spittingimage.json", "profiles": ["default", "visuals"]},
             {"path": "config/dynamiclights.json", "profiles": ["default", "visuals"]},
             {"path": "config/minihud.json", "profiles": ["default", "visuals"]},
-            {"path": "options.txt", "profiles": ["default", "visuals"]},
             {"path": "essential/config.toml", "profiles": ["default", "visuals"], "id": "essentials"}
         ],
         "journeymap": [
