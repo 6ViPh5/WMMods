@@ -3,7 +3,7 @@
         "mods": [
             {
                 "path": "mods/viph-ideas-2.1.jar",
-                "sha256": "461e13ba6d6dee8dc37081fdb536c1fd84505e2a21e1306606e67b7cf112aa93",
+                "sha256": "461e13ba6d6dee8dc37081fdb536c1fd84505e2a21e1306606e67b7cf112aa93",,
                 "profiles": ["default", "visuals"]
             },
             {
