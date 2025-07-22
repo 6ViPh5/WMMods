@@ -408,7 +408,7 @@
                 "path": "mods/visuality-0.7.10+1.21.5.jar",
                 "sha256": "738c915ff7b4a7ce2a3a5e5564cf789d0de154751fb1800dd4ea25cb2aa3e613",
                 "profiles": ["visuals"]
-            }
+            },
             {
                 "path": "mods/waveycapes-fabric-1.6.1.1-mc1.21.6.jar",
                 "sha256": "b844d7e74c7320fe4b9333f481aee29d5bbdfe53bc6d4d6af92285161fe20ca4",
