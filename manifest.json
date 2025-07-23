@@ -13,6 +13,11 @@
                 "profiles": ["default", "visuals"]
             },
             {
+                "path": "mods/EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar",
+                "sha256": "8c54a994a344e736f98ec63f72ad6443b4b051ddeb6e58f7ecfe6a706ae67de6",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/AsyncParticles-6.3.0-beta.1+1.21.7.jar",
                 "sha256": "ea99575375c236e3cb37529803499c1dbb0d08225112c374c2f64d26a68c59ad",
                 "profiles": ["default", "visuals"]
@@ -413,11 +418,6 @@
             {
                 "path": "mods/eg_particle_interactions-0.7.1-fabric-mc1.21.6.jar",
                 "sha256": "266853c6279265a2bfb5a90b43dbb5d617206039b8aebd65256a8bf5669f34c0",
-                "profiles": ["visuals"]
-            },
-            {
-                "path": "mods/EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar",
-                "sha256": "8c54a994a344e736f98ec63f72ad6443b4b051ddeb6e58f7ecfe6a706ae67de6",
                 "profiles": ["visuals"]
             },
             {
