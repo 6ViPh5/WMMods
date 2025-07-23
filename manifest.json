@@ -18,11 +18,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/respackopts-4.13.4.jar",
-                "sha256": "d54830ce60b7b16703f7c565d2c00db5e7e8778c362841e60e8ea881e3598e9a",
-                "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/Charged 1.0.2 1.21.6-1.21.7.jar",
                 "sha256": "e8d4f45c029e5c0b36fda459b1786ca70ef8545a54feb2d01c6fe0a597b49696",
                 "profiles": ["default", "visuals"]
