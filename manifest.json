@@ -8,6 +8,26 @@
         ],
         "mods": [
             {
+                "path": "mods/bonk-1.0.2+mc1.21.5.jar",
+                "sha256": "f1fa386461a193902a62712d6a0459e6cfa4818307ed4120501892561afa0f18",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/eatbottle-1.0.0+mc1.21.5.jar",
+                "sha256": "d17fa1d09a16380b51f238a34fba99453f5aa9a3cdfb720d7903b3f3ab190bc6",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/hit-1.4v.jar",
+                "sha256": "e4e766db0f4ea94b5b9fe789b4d711110b3cc536520ddde97614c5c801d21b1c",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/more_armor_trims-1.4.5-1.21.5.jar",
+                "sha256": "8756db2d4a71379867ee13625c22c21ccbec517753c631b4d2cebe7feef54096",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/justsit-1.0.0-fabric-1.21.6-0.127.1.jar",
                 "sha256": "0c199b7d7b40ef3ee5b8671a720e4a3c2af23f847bfb77276b2fcdd3a29d0f66",
                 "profiles": ["default", "visuals"]
@@ -399,6 +419,11 @@
                 "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
                 "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
                 "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/bedrock-hotbar-1.1+1.21.6.jar",
+                "sha256": "c8d1896917bf4dd78929e0c7a4e4b54698822cdbb4dc5a9f49c933e0f342b6de",
+                "profiles": ["visuals"]
             },
             {
                 "path": "mods/appleskin-fabric-mc1.21.6-3.0.6.jar",
