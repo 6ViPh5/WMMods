@@ -137,12 +137,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "id": "e4mc",
-                "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
-                "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
-                "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/EasyMagic-v21.7.0-1.21.7-Fabric.jar",
                 "sha256": "835b523c103a2c90bc77b4750d185b84438b88fe463dad4c41b90288c96be617",
                 "profiles": ["default", "visuals"]
@@ -160,13 +154,6 @@
             {
                 "path": "mods/entity_texture_features_fabric_1.21.6-6.2.14.jar",
                 "sha256": "c9cfc02f3d318afc6308da9a10dda438508406deafd09ecbd7455242e243fd9d",
-                "profiles": ["default", "visuals"]
-            },
-            {
-                "id": "essentials",
-                "url" :"https://cdn.modrinth.com/data/k2ZPuTBm/versions/jYi23Siq/Essential_1-3-8-4_fabric_1-21-7.jar",
-                "path": "mods/Essential_1-3-8-4_fabric_1-21-7.jar",
-                "sha256": "347d50199d6fcee0472b8b64d6342bec9fc795a0b2b951e9f48cffacecb13fb3",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -385,6 +372,19 @@
                 "profiles": ["default", "visuals"]
             },
             {
+                "id": "essentials",
+                "url" :"https://cdn.modrinth.com/data/k2ZPuTBm/versions/jYi23Siq/Essential_1-3-8-4_fabric_1-21-7.jar",
+                "path": "mods/Essential_1-3-8-4_fabric_1-21-7.jar",
+                "sha256": "347d50199d6fcee0472b8b64d6342bec9fc795a0b2b951e9f48cffacecb13fb3",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "id": "e4mc",
+                "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
+                "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/appleskin-fabric-mc1.21.6-3.0.6.jar",
                 "sha256": "b82abe586851ba6dbb9bcd4d9270fbddcd519e855ea7bffe933ed45ab5158e21",
                 "profiles": ["visuals"]
@@ -468,7 +468,7 @@
                 "path": "mods/chat_heads-0.13.19-fabric-1.21.6.jar",
                 "sha256": "72a2e5deed5614369c426dbea8135b494ff473f7c4a1c4077d94a287e452466d",
                 "profiles": ["visuals"]
-            },
+            }
         ],
         "resourcepacks": [
             {
