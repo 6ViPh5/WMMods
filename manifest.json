@@ -8,10 +8,16 @@
         ],
         "mods": [
             {
+                "path": "mods/morechathistory-1.3.1.jar",
+                "sha256": "f6032e46826b63e18c8848a3053e32652fc5298892a216a53dce66598925fc6c",
+                "profiles": ["default", "visuals"]
+            }, 
+            {
                 "path": "mods/CraftPresence-2.6.1+1.21.8-fabric.jar",
                 "sha256": "0b6388754cc1b6cfcfb63e860882a08ab00c005a84a01310b17cc11f49705eca",
                 "profiles": ["default", "visuals"]
-            },            {
+            },            
+	    {
                 "path": "mods/UniLib-1.1.0+1.21.8-fabric.jar",
                 "sha256": "11eb0ea3b87665e4c5ddfd85c9b95ee958a15ad86f1fc7e5f4a682dd2bd3f81d",
                 "profiles": ["default", "visuals"]
@@ -433,7 +439,17 @@
                 "path": "mods/waveycapes-fabric-1.6.1.1-mc1.21.6.jar",
                 "sha256": "b844d7e74c7320fe4b9333f481aee29d5bbdfe53bc6d4d6af92285161fe20ca4",
                 "profiles": ["visuals"]
-            }
+            },
+	    {
+                "path": "mods/better-clouds-1.10.2-alpha+1.21.8-fabric.rev.124e2fb.jar",
+                "sha256": "0c9c23dbd7f7fbaa0922a4b5ccbb4778677eee32850326ac98aa7f16e1181901",
+                "profiles": ["visuals"]
+            },
+            {
+                "path": "mods/chat_heads-0.13.19-fabric-1.21.6.jar",
+                "sha256": "72a2e5deed5614369c426dbea8135b494ff473f7c4a1c4077d94a287e452466d",
+                "profiles": ["visuals"]
+            },
         ],
         "resourcepacks": [
             {
@@ -538,6 +554,12 @@
             {"path": "config/spittingimage.json", "profiles": ["default", "visuals"]},
             {"path": "config/dynamiclights.json", "profiles": ["default", "visuals"]},
             {"path": "config/minihud.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-extra-options.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-extra.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-fingerprint.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-extra-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-extra.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-fingerprint.json", "profiles": ["default", "visuals"]},
