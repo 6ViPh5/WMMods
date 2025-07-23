@@ -8,6 +8,11 @@
         ],
         "mods": [
             {
+                "path": "mods/justsit-1.0.0-fabric-1.21.6-0.127.1.jar",
+                "sha256": "0c199b7d7b40ef3ee5b8671a720e4a3c2af23f847bfb77276b2fcdd3a29d0f66",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/[1.21.5+]witherswrath-1.14.jar",
                 "sha256": "4716b1ba6564407bfa6339691f93e4432450f18e520a9ce2378585673f614e25",
                 "profiles": ["default", "visuals"]
