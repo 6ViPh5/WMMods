@@ -8,6 +8,21 @@
         ],
         "mods": [
             {
+                "path": "mods/AsyncParticles-6.3.0-beta.1+1.21.7.jar",
+                "sha256": "ea99575375c236e3cb37529803499c1dbb0d08225112c374c2f64d26a68c59ad",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/polytone-1.21.7-3.5.2-alpha-fabric.jar",
+                "sha256": "58abdb012e473a27693696dbf1b5863fc70bbf636614c72a1f10676bc477c514",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/respackopts-4.13.4.jar",
+                "sha256": "d54830ce60b7b16703f7c565d2c00db5e7e8778c362841e60e8ea881e3598e9a",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/Charged 1.0.2 1.21.6-1.21.7.jar",
                 "sha256": "e8d4f45c029e5c0b36fda459b1786ca70ef8545a54feb2d01c6fe0a597b49696",
                 "profiles": ["default", "visuals"]
@@ -119,7 +134,7 @@
             {
                 "path": "mods/coolrain-1.2.0-1.21.7.jar",
                 "sha256": "9aab301a7a804128958e995d842aebbd3e3443fa2f27233785de5398722ce8d8",
-                "profiles": ["default", "visuals"]
+                "profiles": ["visuals"]
             },
             {
                 "path": "mods/critterarmory-1.21.8-0.6.3-fabric.jar",
