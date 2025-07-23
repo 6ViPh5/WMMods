@@ -168,7 +168,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.k
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
+key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
