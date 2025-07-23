@@ -449,7 +449,7 @@
                 "path": "mods/chat_heads-0.13.19-fabric-1.21.6.jar",
                 "sha256": "72a2e5deed5614369c426dbea8135b494ff473f7c4a1c4077d94a287e452466d",
                 "profiles": ["visuals"]
-            },
+            }
         ],
         "resourcepacks": [
             {
