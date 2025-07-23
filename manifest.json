@@ -8,10 +8,29 @@
         ],
         "mods": [
             {
+                "path": "mods/Charged 1.0.2 1.21.6-1.21.7.jar",
+                "sha256": "e8d4f45c029e5c0b36fda459b1786ca70ef8545a54feb2d01c6fe0a597b49696",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/trial-spawner-timer-fabric-1.1.1+mc1.21.7.jar",
+                "sha256": "2157eb7e56afd17da79d62c3d3f1246dca526513a6e3a0dfe582491684dcc35c",
+                "profi
+            {
+                "path": "mods/trial-airship-1.0.2.jar",
+                "sha256": "fc86da1d1c4565a7db4059364a32cb893040910c2f1b247d1ab2f4f2576a6f50",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "mods/nodamniron-0.0.2-1.21.7.jar",
+                "sha256": "1ad39030a4a28691711eef2aee03101d3c1bd829fcd050e41320e24808c0545c",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/morechathistory-1.3.1.jar",
                 "sha256": "f6032e46826b63e18c8848a3053e32652fc5298892a216a53dce66598925fc6c",
                 "profiles": ["default", "visuals"]
-            }, 
+            },
             {
                 "path": "mods/CraftPresence-2.6.1+1.21.8-fabric.jar",
                 "sha256": "0b6388754cc1b6cfcfb63e860882a08ab00c005a84a01310b17cc11f49705eca",
