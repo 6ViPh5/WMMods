@@ -8,6 +8,11 @@
         ],
         "mods": [
             {
+                "path": "mods/[1.21.5+]witherswrath-1.14.jar",
+                "sha256": "4716b1ba6564407bfa6339691f93e4432450f18e520a9ce2378585673f614e25",
+                "profiles": ["default", "visuals"]
+            },
+            {
                 "path": "mods/AsyncParticles-6.3.0-beta.1+1.21.7.jar",
                 "sha256": "ea99575375c236e3cb37529803499c1dbb0d08225112c374c2f64d26a68c59ad",
                 "profiles": ["default", "visuals"]
