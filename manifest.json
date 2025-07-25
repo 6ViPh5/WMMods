@@ -113,13 +113,13 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/architectury-17.0.6-fabric.jar",
-                "sha256": "85e8578a6629fbde45f2315f9fc3cc3ff21b3e22ab29fb07a0858c52a93a93a2",
+                "path": "mods/architectury-17.0.8-fabric.jar",
+                "sha256": "b5d051f8effe8f9476f9375e11e48dfafb821791435b8fe368869900397f05d5",
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/ArmorTrimItemFix-fabric-1.21.5-2.1.3.jar",
-                "sha256": "e4cce28d53d5e3622a05f1e1f99023f2be599e2d218ebb2e4cf109bde0e5018b",
+                "path": "mods/ArmorTrimItemFix-fabric-1.21.5-2.1.4.jar",
+                "sha256": "edff2038109e2fd6dfe24303babee72302b5891ddee8eed89748c02a024756ae",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -133,8 +133,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/balm-fabric-1.21.8-21.8.3.jar",
-                "sha256": "22b112a28406879df75d31d992a3b4c43784820a212403eabaae1115fb0c6a46",
+                "path": "mods/balm-fabric-1.21.8-21.8.4.jar",
+                "sha256": "fbe4a95069aa104be03f536d91f3dad72ade5552878a3d94ffb67f2635e4c834",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -148,8 +148,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/c2me-fabric-mc1.21.7-0.3.4+beta.1.0.jar",
-                "sha256": "cb2b937cb4e4f36fe6ec01c80b0cee9e6df170bd9ab10c42ace503d0a0741daf",
+                "path": "mods/c2me-fabric-mc1.21.8-0.3.4+rc.1.0.jar",
+                "sha256": "bb3c685d2339fb6ffed30cd05217c996ee1a73f1a21dd8c60e6960eb18e7d317",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -303,8 +303,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/mru-1.0.18+1.21.6+fabric.jar",
-                "sha256": "43f1166a60345f751a35835cb287451c456aace1dd12b42f03d540efeff7d3ff",
+                "path": "mods/mru-1.0.20+edge+1.21.8+fabric.jar",
+                "sha256": "9b46e6c6d76fd507d6c0867e29f89a49a4f8e78f45e35f9fc66a6cf03ba6bb7d",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -368,8 +368,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/spark-1.10.140-fabric.jar",
-                "sha256": "66d6c264962d6895933bc89287aeac31287ceb085d06bb63b59db8d0b743adaf",
+                "path": "mods/spark-1.10.142-fabric.jar",
+                "sha256": "530d544e9c55d97e594e313bcdac5b44239d5b15d0e78af576e2c4d31bd2cd2d",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -426,8 +426,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/bedrock-hotbar-1.1+1.21.6.jar",
-                "sha256": "c8d1896917bf4dd78929e0c7a4e4b54698822cdbb4dc5a9f49c933e0f342b6de",
+                "path": "mods/bedrock-hotbar-1.2+1.21.6.jar",
+                "sha256": "665d8ba22593b989d83c9f66d763a13c953fa9e683ca31160a98cb06e40b3cd0",
                 "profiles": ["visuals"]
             },
             {
