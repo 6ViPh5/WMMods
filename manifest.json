@@ -8,6 +8,11 @@
         ],
         "mods": [
             {
+                "path": "mods/entityculling-fabric-1.8.2-mc1.21.6.jar",
+                "sha256": "568125b2f14d7a8cab137e55c4c9ea409f88b8eac29f1c5edc2c3b7f41dc27e6",
+                "profiles": ["default", "visuals"]
+            }
+            {
                 "path": "mods/bonk-1.0.2+mc1.21.5.jar",
                 "sha256": "f1fa386461a193902a62712d6a0459e6cfa4818307ed4120501892561afa0f18",
                 "profiles": ["default", "visuals"]
@@ -448,6 +453,11 @@
             {
                 "path": "mods/fallingleaves-2.0.0+1.21.5.jar",
                 "sha256": "bdd34a1cdd24440094f476291d3520a640b64b1cdef9eb7c82758fdd33c84b61",
+                "profiles": ["visuals"]
+            },
+            {
+                "path": "mods/AmbientSounds_FABRIC_v6.1.10_mc1.21.7.jar",
+                "sha256": "a160e04b642e4db52c2c585b007866f3813611e183fd7c55fd617b08534bc361",
                 "profiles": ["visuals"]
             },
             {
