@@ -8,6 +8,46 @@
         ],
         "mods": [
 	    {
+                "path": "mods/betterbiomeblend-1.5.2.jar",
+                "sha256": "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083",
+                "profiles": ["visuals"]
+            },
+	    {
+                "path": "mods/continuity-3.0.1-beta.1+1.21.6.jar",
+                "sha256": "80b03195bbfdc805a3280d6b6354e3ecdeb6a3c936fd2928a71fac8bee619708",
+                "profiles": ["visuals"]
+            },
+	    {
+                "path": "mods/EasyAnvils-v21.7.0-1.21.7-Fabric.jar",
+                "sha256": "5a12da42a6a49b4a7fbbd6cc04aa1ab0c30169d8739f4416c3c840ff7960785f",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/ShoulderSurfing-Fabric-1.21.8-4.14.1.jar",
+                "sha256": "9eab09ffe7bff46a3bfb261a484752aa5d2db84cd29d59b1d478db20163272fe",
+                "profiles": ["visuals"]
+            },
+	    {
+                "path": "mods/silk-all-1.11.2.jar",
+                "sha256": "6a3070e40872da638ae2bb0d22a68c00252a046397e4aa2c12ae8df901a7900e",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/veinminer-enchant-2.2.2.jar",
+                "sha256": "77cc34ca5efed90a2ec9e954a0d895cd37c23ae1455aa0b59501e5712ab2cfdc",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/veinminer-fabric-2.4.8.jar",
+                "sha256": "3f0a44d672719a8f106a36d71a4517102ba30d03bad4db84f46e35d6ef31e2b5",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/Zoomify-2.14.4+1.21.6.jar",
+                "sha256": "546cfcf48df883f48228fa12abfb508af22321cefb60efb2e2f4a1ccdb24ad86",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/CreativeCore_FABRIC_v2.13.3_mc1.21.7.jar",
                 "sha256": "e7819c5ca496601aa65ed9e4313ae24325741c9dbb44904fa21a4560bd4799f6",
                 "profiles": ["default", "visuals"]
