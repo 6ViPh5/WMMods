@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/CreativeCore_FABRIC_v2.13.3_mc1.21.7.jar",
+                "sha256": "e7819c5ca496601aa65ed9e4313ae24325741c9dbb44904fa21a4560bd4799f6",
+                "profiles": ["default", "visuals"]
+            },
+	    {
 		"id": "e4mc"
                 "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
                 "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
