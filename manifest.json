@@ -23,11 +23,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/ShoulderSurfing-Fabric-1.21.8-4.14.1.jar",
-                "sha256": "9eab09ffe7bff46a3bfb261a484752aa5d2db84cd29d59b1d478db20163272fe",
-                "profiles": ["visuals"]
-            },
-	    {
                 "path": "mods/silk-all-1.11.2.jar",
                 "sha256": "6a3070e40872da638ae2bb0d22a68c00252a046397e4aa2c12ae8df901a7900e",
                 "profiles": ["default", "visuals"]
