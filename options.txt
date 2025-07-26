@@ -6,16 +6,16 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.0
+fov:0.75
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:1.0
 graphicsMode:1
-guiScale:0
+guiScale:2
 maxFps:120
 inactivityFpsLimit:"afk"
 mipmapLevels:4
@@ -130,6 +130,8 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglefastbreaking:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.journeymap.zoom_in:key.keyboard.unknown
 key_key.journeymap.zoom_out:key.keyboard.unknown
 key_key.journeymap.minimap_type:key.keyboard.unknown
@@ -152,6 +154,7 @@ key_key.journeymap.fullscreen.west:key.keyboard.unknown
 key_key.journeymap.fullscreen_follow_player:key.keyboard.unknown
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.unknown
+key_key.justsit.sit:key.keyboard.z
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.spittingimage.spit:key.keyboard.comma
 key_key.push_to_talk:key.keyboard.unknown
