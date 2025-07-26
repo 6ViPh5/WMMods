@@ -13,7 +13,7 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-		"id": "e4mc"
+		"id": "e4mc",
                 "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
                 "sha256": "42d722bceb020190509d1c228d3bd9714cf9090903ba80ad2fd525fe830e70bf",
                 "profiles": ["default", "visuals"]
