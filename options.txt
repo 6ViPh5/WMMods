@@ -191,7 +191,7 @@ key_iris.keybind.shaderPackSelection:key.keyboard.k
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
