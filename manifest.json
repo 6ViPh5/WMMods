@@ -141,11 +141,6 @@
                 "profiles": ["visuals"]
             },
             {
-                "path": "mods/BetterEnchantmentGlint-1.21.6-2.3.jar",
-                "sha256": "4237b42c00ac7c2dd4785bfc9d30a1ad94b56b86f9d630679287e30c9a3b0faa",
-                "profiles": ["visuals"]
-            },
-            {
                 "path": "mods/BetterF1-Fabric-1.1+1.21.7.jar",
                 "sha256": "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf",
                 "profiles": ["default", "visuals"]
@@ -685,6 +680,7 @@
             {"path": "config/sodium-fingerprint.json", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
+            {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]}
         ],
         "journeymap": [
