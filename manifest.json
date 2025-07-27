@@ -131,11 +131,6 @@
                 "profiles": ["visuals"]
             },
             {
-                "path": "mods/better-clouds-1.10.2-alpha+1.21.8-fabric.rev.124e2fb.jar",
-                "sha256": "0c9c23dbd7f7fbaa0922a4b5ccbb4778677eee32850326ac98aa7f16e1181901",
-                "profiles": ["visuals"]
-            },
-            {
                 "path": "mods/BetterF1-Fabric-1.1+1.21.7.jar",
                 "sha256": "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf",
                 "profiles": ["default", "visuals"]
