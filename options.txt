@@ -173,16 +173,7 @@ key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown
 key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown
 key_key.shouldersurfing.toggle_z_offset_presets:key.keyboard.unknown
 key_key.spittingimage.spit:key.keyboard.comma
-key_key.push_to_talk:key.keyboard.unknown
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.unknown
-key_key.disable_voice_chat:key.keyboard.unknown
-key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.unknown
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.plasmovoice.settings:key.keyboard.v
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown

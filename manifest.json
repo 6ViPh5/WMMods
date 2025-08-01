@@ -693,7 +693,10 @@
             {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]}
+            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/plasmovoice/client.toml"},
+            {"path": "config/plasmovoice/server/config.toml"},
+            {"path": "config/pv-addon-sculk/config.toml"}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config", "profiles": ["default", "visuals"]},
