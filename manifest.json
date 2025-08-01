@@ -38,11 +38,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/instantgroup-fabric-1.21.7-1.7.0.jar",
-                "sha256": "0e84456e4a000b2a5b165d3abd05e99e6b21a60dc16296f856eec6601fd1303f",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/Reusable Vault Blocks - Fabric [1.21.6].jar",
                 "sha256": "4acbf0ba8978e81f1914d48f94cce0c8cd97ad4dfcb657767206766b33530cbd",
                 "profiles": ["default", "visuals"]
