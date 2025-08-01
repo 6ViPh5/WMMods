@@ -8,6 +8,26 @@
         ],
         "mods": [
 	    {
+                "path": "mods/endervillages-v2.0.0-1.21.6.jar",
+                "sha256": "a939bf8db4614613fabac96ba3ba35bf5030e2ba4c53075c89b4caf8fa578f70",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/instantgroup-fabric-1.21.7-1.7.0.jar",
+                "sha256": "0e84456e4a000b2a5b165d3abd05e99e6b21a60dc16296f856eec6601fd1303f",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/Reusable Vault Blocks - Fabric [1.21.6].jar",
+                "sha256": "4acbf0ba8978e81f1914d48f94cce0c8cd97ad4dfcb657767206766b33530cbd",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/trial-airship-1.0.2.jar",
+                "sha256": "fc86da1d1c4565a7db4059364a32cb893040910c2f1b247d1ab2f4f2576a6f50",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/betterbiomeblend-1.5.2.jar",
                 "sha256": "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083",
                 "profiles": ["visuals"]
