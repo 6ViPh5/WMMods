@@ -18,11 +18,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/pv-addon-sculk-1.1.0.jar",
-                "sha256": "6e3c195c976be29d20e37ea3e8dcb489342c813e84e9c3561b39cfe0a543228f",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/pv-addon-soundphysics-1.1.1.jar",
                 "sha256": "4f0ba717e32d873d1cfce8c2e1dc59ac92600347247c0f139368d4a7521143f2",
                 "profiles": ["default", "visuals"]
