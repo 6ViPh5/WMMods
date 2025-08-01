@@ -8,6 +8,26 @@
         ],
         "mods": [
 	    {
+                "path": "mods/plasmovoice-fabric-1.21.6-2.1.5.jar",
+                "sha256": "a0ccb9fe718374fee018516772cc17d4ed7e6af50388a97500cca2e345d0bacb",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/pv-addon-groups-1.1.0.jar",
+                "sha256": "80aa276ecd3ea6949e810cce05a9c9e742973b7850146c202db4a12397dd7f46",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/pv-addon-sculk-1.1.0.jar",
+                "sha256": "6e3c195c976be29d20e37ea3e8dcb489342c813e84e9c3561b39cfe0a543228f",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/pv-addon-soundphysics-1.1.1.jar",
+                "sha256": "4f0ba717e32d873d1cfce8c2e1dc59ac92600347247c0f139368d4a7521143f2",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/serverpingerfixer-1.0.5.jar",
                 "sha256": "10e6552eecf2def5dccdd96472bb93c2b721edf52ac76a277aa6fe62020a265b",
                 "profiles": ["default", "visuals"]
@@ -536,11 +556,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/vcinteraction-fabric-1.21.7-1.0.8.jar",
-                "sha256": "620c0b97d5a57b48e49a939cc02775255289753c84c7a93cffabafff2df5eba2",
-                "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/viph-ideas-2.1.jar",
                 "sha256": "f3071394d0464e264c33c6e8875c85074085a751f32c26e93f41de406f0cf1bf",
                 "profiles": ["default", "visuals"]
@@ -553,11 +568,6 @@
             {
                 "path": "mods/VisualWorkbench-v21.7.0-1.21.7-Fabric.jar",
                 "sha256": "6749c8fe8f76b5d7d52b4b0bafc0945fc8e3124c07f4690b1f84dea0505c1bb2",
-                "profiles": ["default", "visuals"]
-            },
-            {
-                "path": "mods/voicechat-fabric-1.21.7-2.5.34.jar",
-                "sha256": "e6b584fffd4b8f91805451d88e03bd0eed09e52e3fe7fd8ab108aea1a48ccef4",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -670,9 +680,6 @@
             {"path": "config/sound_physics_remastered/occlusion.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/reflectivity.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sound_physics_remastered/soundphysics.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/vcinteraction/vcinteraction.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/voicechat-server.properties", "profiles": ["default", "visuals"]},
             {"path": "config/fallingtree.json", "profiles": ["default", "visuals"]},
             {"path": "config/moreshieldvariants.json", "profiles": ["default", "visuals"]},        
             {"path": "config/shulkerboxtooltip.json5", "profiles": ["default", "visuals"]},
