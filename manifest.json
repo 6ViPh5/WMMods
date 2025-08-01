@@ -18,11 +18,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/pv-addon-soundphysics-1.1.1.jar",
-                "sha256": "4f0ba717e32d873d1cfce8c2e1dc59ac92600347247c0f139368d4a7521143f2",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/serverpingerfixer-1.0.5.jar",
                 "sha256": "10e6552eecf2def5dccdd96472bb93c2b721edf52ac76a277aa6fe62020a265b",
                 "profiles": ["default", "visuals"]
@@ -706,3 +701,4 @@
         ]
     }
 }
+
