@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/serverpingerfixer-1.0.5.jar",
+                "sha256": "10e6552eecf2def5dccdd96472bb93c2b721edf52ac76a277aa6fe62020a265b",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/endervillages-v2.0.0-1.21.6.jar",
                 "sha256": "a939bf8db4614613fabac96ba3ba35bf5030e2ba4c53075c89b4caf8fa578f70",
                 "profiles": ["default", "visuals"]
