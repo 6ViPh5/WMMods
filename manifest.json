@@ -516,11 +516,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/trial-airship-1.0.2.jar",
-                "sha256": "fc86da1d1c4565a7db4059364a32cb893040910c2f1b247d1ab2f4f2576a6f50",
-                "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/trial-spawner-timer-fabric-1.1.1+mc1.21.7.jar",
                 "sha256": "2157eb7e56afd17da79d62c3d3f1246dca526513a6e3a0dfe582491684dcc35c",
                 "profiles": ["default", "visuals"]
