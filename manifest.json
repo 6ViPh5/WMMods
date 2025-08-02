@@ -196,8 +196,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/c2me-fabric-mc1.21.8-0.3.4+rc.1.0.jar",
-                "sha256": "bb3c685d2339fb6ffed30cd05217c996ee1a73f1a21dd8c60e6960eb18e7d317",
+                "path": "mods/c2me-fabric-mc1.21.8-0.3.4.0.0.jar",
+                "sha256": "324619388f402fbcacc2a11f4a9f3f363b38cfbc45448b6ebcbbbdeb39cefefe",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -291,13 +291,13 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/fallingleaves-2.0.0+1.21.5.jar",
-                "sha256": "bdd34a1cdd24440094f476291d3520a640b64b1cdef9eb7c82758fdd33c84b61",
+                "path": "mods/fallingleaves-2.0.1+1.21.5.jar",
+                "sha256": "dd15df9106cd8f58c4985d30422c014f34300d3dd374e56a85eaf24487a68a6b",
                 "profiles": ["visuals"]
             },
             {
-                "path": "mods/FallingTree-1.21.7-1.21.7.2.jar",
-                "sha256": "a3a7040c4661a7382644ceee3092e211cf89666db00459e720f0c67b620c90a6",
+                "path": "mods/FallingTree-1.21.7-1.21.7.3.jar",
+                "sha256": "5eed36b8f8428e314487adb742af5c4060b9d756fe912109b7e2ced519767d9c",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -331,8 +331,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/ImmediatelyFast-Fabric-1.11.1+1.21.7.jar",
-                "sha256": "7ac79492f67eb0c3c455815b4f93c5742ce3785a69799941d39b8f48223b449b",
+                "path": "mods/ImmediatelyFast-Fabric-1.11.2+1.21.7.jar",
+                "sha256": "f3635e2326531cc607d06eb3c9df04c711cd419ff3136d835b66359dab1a31f6",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -561,8 +561,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/viph-ideas-2.1.jar",
-                "sha256": "f3071394d0464e264c33c6e8875c85074085a751f32c26e93f41de406f0cf1bf",
+                "path": "mods/viph-ideas-2.2.jar",
+                "sha256": "f31a0bb99251fde39bddc95c761df29eca4372ca31404a8db57d452c168e63e3",
                 "profiles": ["default", "visuals"]
             },
             {
