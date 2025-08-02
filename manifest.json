@@ -705,7 +705,6 @@
             {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
             {"path": "config/plasmovoice/client.toml"},
-            {"path": "config/plasmovoice/server/config.toml"},
             {"path": "config/pv-addon-sculk/config.toml"}
         ],
         "journeymap": [
