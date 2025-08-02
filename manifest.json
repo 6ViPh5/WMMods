@@ -83,8 +83,8 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/veinminer-fabric-2.4.8.jar",
-                "sha256": "3f0a44d672719a8f106a36d71a4517102ba30d03bad4db84f46e35d6ef31e2b5",
+                "path": "mods/veinminer-fabric-2.4.9.jar",
+                "sha256": "c5cc9c3f9fa372c8068b1e26d4f9d17b3ca281f4176121a4e90b66121874171f",
                 "profiles": ["default", "visuals"]
             },
 	    {
