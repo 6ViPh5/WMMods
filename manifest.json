@@ -8,6 +8,26 @@
         ],
         "mods": [
 	    {
+                "path": "mods/better-happy-ghast-1.21.6-0.0.9.jar",
+                "sha256": "8f1b340beb2cd134e7ed59d31828a6644020b9b9046310ac03d3dbdb824ded04",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/pv-addon-soundphysics-1.1.1.jar",
+                "sha256": "4f0ba717e32d873d1cfce8c2e1dc59ac92600347247c0f139368d4a7521143f2",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/riptide-depth-strider-fix-1.1.0.jar",
+                "sha256": "943c02986954189b07f223819c12a2a3b5f87c8a0fc57321ceacd860ddb41433",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/usefuller-ghasts-1.0.0.jar",
+                "sha256": "fdb30e908a00e94319ccfaed8af2321be83832c87a9137e4c6ea7caee7e202ed",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/plasmovoice-fabric-1.21.6-2.1.5.jar",
                 "sha256": "a0ccb9fe718374fee018516772cc17d4ed7e6af50388a97500cca2e345d0bacb",
                 "profiles": ["default", "visuals"]
