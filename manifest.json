@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/continuity-3.0.1-beta.1+1.21.6.jar",
+                "sha256": "80b03195bbfdc805a3280d6b6354e3ecdeb6a3c936fd2928a71fac8bee619708",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/wandering-illusioner-atlasplays-2.0.0.jar",
                 "sha256": "9a363188e1cd0e5b76ac8653f2e9000563dc8e82eb1b7d9bdf898e2a3e3c8173",
                 "profiles": ["default", "visuals"]
