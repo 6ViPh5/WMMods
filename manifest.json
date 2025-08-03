@@ -13,11 +13,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/MapFrontiers-1.21.7-2.7.0-beta.13-fabric.jar",
-                "sha256": "a54358ba77d7dc534e0c5bfd32237d57981ed68df159632d5a12ce5dd5e1c029",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/continuity-3.0.1-beta.1+1.21.6.jar",
                 "sha256": "80b03195bbfdc805a3280d6b6354e3ecdeb6a3c936fd2928a71fac8bee619708",
                 "profiles": ["default", "visuals"]
