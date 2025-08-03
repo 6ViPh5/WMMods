@@ -704,8 +704,9 @@
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/plasmovoice/client.toml"},
-            {"path": "config/pv-addon-sculk/config.toml"}
+            {"path": "config/plasmovoice/client.toml", "profiles": ["default", "visuals"]},
+            {"path": "config/pv-addon-sculk/config.toml", "profiles": ["default", "visuals"]},
+            {"path": "config/notenoughanimations.json", "profiles": ["default", "visuals"]}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config", "profiles": ["default", "visuals"]},
