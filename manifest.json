@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/emoji-type-2.3.2-1.21.6-fabric.jar",
+                "sha256": "4c4e9a046dfb5aa0524f6df4dc23da375488d3f8c095b9895dd082087589ab29",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/better-happy-ghast-1.21.6-0.0.9.jar",
                 "sha256": "8f1b340beb2cd134e7ed59d31828a6644020b9b9046310ac03d3dbdb824ded04",
                 "profiles": ["default", "visuals"]
