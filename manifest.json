@@ -176,11 +176,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/bedrock-hotbar-1.2+1.21.6.jar",
-                "sha256": "665d8ba22593b989d83c9f66d763a13c953fa9e683ca31160a98cb06e40b3cd0",
-                "profiles": ["visuals"]
-            },
-            {
                 "path": "mods/BetterF1-Fabric-1.1+1.21.7.jar",
                 "sha256": "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf",
                 "profiles": ["default", "visuals"]
