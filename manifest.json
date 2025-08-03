@@ -78,11 +78,6 @@
                 "profiles": ["visuals"]
             },
 	    {
-                "path": "mods/continuity-3.0.1-beta.1+1.21.6.jar",
-                "sha256": "80b03195bbfdc805a3280d6b6354e3ecdeb6a3c936fd2928a71fac8bee619708",
-                "profiles": ["visuals"]
-            },
-	    {
                 "path": "mods/EasyAnvils-v21.7.0-1.21.7-Fabric.jar",
                 "sha256": "5a12da42a6a49b4a7fbbd6cc04aa1ab0c30169d8739f4416c3c840ff7960785f",
                 "profiles": ["default", "visuals"]
