@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/voicemessages-fabric-1.0.7-1.21.6.jar",
+                "sha256": "6a45237c83d574924cb040a19304923edacbabee38a8ea7e64d1144fa41f9f64",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/instantgroup-fabric-1.21.7-1.7.0.jar",
                 "sha256": "0e84456e4a000b2a5b165d3abd05e99e6b21a60dc16296f856eec6601fd1303f",
                 "profiles": ["default", "visuals"]
