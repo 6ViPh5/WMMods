@@ -8,6 +8,26 @@
         ],
         "mods": [
 	    {
+                "path": "mods/fusion-1.2.10-fabric-mc1.21.6.jar",
+                "sha256": "2a735b0ac6f0772c23cef90efcba42bb3e57e3ce61830fd641e1ec291cab5780",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/rechiseled-1.1.6b-fabric-mc1.21.8.jar",
+                "sha256": "088dd2cb77b732e533f975da83b3534894ecb07c28e3679d9788ffaa8418e8f8",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+                "sha256": "63a29f2acf4be2c5ca89a81a046c1100111ad2865d9638f638e27ca161e7211c",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/supermartijn642corelib-1.1.18d-fabric-mc1.21.7.jar",
+                "sha256": "607a2ca7d612808a88f28bf77ad0000347ca884b59dafbc13eb53208b4a16c29",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/journeymap-webmap-fabric-1.21.4-1.0.8.jar",
                 "sha256": "bd00fdaf833816b338f63da348f2c377f433010ea1fe71f8a44f2a7d1030993f",
                 "profiles": ["default", "visuals"]
