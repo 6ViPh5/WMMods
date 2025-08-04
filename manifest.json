@@ -727,11 +727,10 @@
             {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
-            {"path": "config/vcinteraction/vcinteraction.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/vcinteraction/vcinteraction.properties", "profiles": ["default", "visuals"], "enforce": true},
             {"path": "config/voicechat/translations.properties", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/translations.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/voicechat-server.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/voicechat-server.properties", "profiles": ["default", "visuals"], "enforce": true},
             {"path": "config/voicechat/voicechat-volumes.properties", "profiles": ["default", "visuals"]},
             {"path": "config/notenoughanimations.json", "profiles": ["default", "visuals"]},
             {"path": "config/malilib.json", "profiles": ["default", "visuals"]}
