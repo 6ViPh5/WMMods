@@ -8,6 +8,21 @@
         ],
         "mods": [
 	    {
+                "path": "mods/instantgroup-fabric-1.21.7-1.7.0.jar",
+                "sha256": "0e84456e4a000b2a5b165d3abd05e99e6b21a60dc16296f856eec6601fd1303f",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/vcinteraction-fabric-1.21.7-1.0.8.jar",
+                "sha256": "620c0b97d5a57b48e49a939cc02775255289753c84c7a93cffabafff2df5eba2",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/voicechat-fabric-1.21.7-2.5.34.jar",
+                "sha256": "e6b584fffd4b8f91805451d88e03bd0eed09e52e3fe7fd8ab108aea1a48ccef4",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/fusion-1.2.10-fabric-mc1.21.6.jar",
                 "sha256": "2a735b0ac6f0772c23cef90efcba42bb3e57e3ce61830fd641e1ec291cab5780",
                 "profiles": ["default", "visuals"]
@@ -48,11 +63,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/pv-addon-soundphysics-1.1.1.jar",
-                "sha256": "4f0ba717e32d873d1cfce8c2e1dc59ac92600347247c0f139368d4a7521143f2",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/riptide-depth-strider-fix-1.1.0.jar",
                 "sha256": "943c02986954189b07f223819c12a2a3b5f87c8a0fc57321ceacd860ddb41433",
                 "profiles": ["default", "visuals"]
@@ -60,16 +70,6 @@
 	    {
                 "path": "mods/usefuller-ghasts-1.0.0.jar",
                 "sha256": "fdb30e908a00e94319ccfaed8af2321be83832c87a9137e4c6ea7caee7e202ed",
-                "profiles": ["default", "visuals"]
-            },
-	    {
-                "path": "mods/plasmovoice-fabric-1.21.6-2.1.5.jar",
-                "sha256": "a0ccb9fe718374fee018516772cc17d4ed7e6af50388a97500cca2e345d0bacb",
-                "profiles": ["default", "visuals"]
-            },
-	    {
-                "path": "mods/pv-addon-groups-1.1.0.jar",
-                "sha256": "80aa276ecd3ea6949e810cce05a9c9e742973b7850146c202db4a12397dd7f46",
                 "profiles": ["default", "visuals"]
             },
 	    {
@@ -716,16 +716,12 @@
             {"path": "config/sodium-fingerprint.json", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-extra-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-extra.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-fingerprint.json", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
-            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/plasmovoice/client.toml", "profiles": ["default", "visuals"]},
-            {"path": "config/pv-addon-sculk/config.toml", "profiles": ["default", "visuals"]},
             {"path": "config/notenoughanimations.json", "profiles": ["default", "visuals"]}
         ],
         "journeymap": [
