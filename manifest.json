@@ -186,8 +186,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/balm-fabric-1.21.8-21.8.4.jar",
-                "sha256": "fbe4a95069aa104be03f536d91f3dad72ade5552878a3d94ffb67f2635e4c834",
+                "path": "mods/balm-fabric-1.21.8-21.8.5.jar",
+                "sha256": "1c6ef84c35005afea8c876dabb739955d0956b3dbe133dfd916a65aec94649ce",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -321,8 +321,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/fzzy_config-0.7.1+1.21.6.jar",
-                "sha256": "cb6d1f28de8d033a50584cfba5d58f6075f514bb0a2d5afe074390e70d1d860d",
+                "path": "mods/fzzy_config-0.7.2+1.21.6.jar",
+                "sha256": "5f3a7433ecef3cb748152ae1ab3fd5fd64c7d55753a81be24fd944751dc1359b",
                 "profiles": ["default", "visuals"]
             },
             {
