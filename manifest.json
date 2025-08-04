@@ -18,11 +18,6 @@
                 "profiles": ["default", "visuals"]
             },
 	    {
-                "path": "mods/wandering-illusioner-atlasplays-2.0.0.jar",
-                "sha256": "9a363188e1cd0e5b76ac8653f2e9000563dc8e82eb1b7d9bdf898e2a3e3c8173",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/emoji-type-2.3.2-1.21.6-fabric.jar",
                 "sha256": "4c4e9a046dfb5aa0524f6df4dc23da375488d3f8c095b9895dd082087589ab29",
                 "profiles": ["default", "visuals"]
