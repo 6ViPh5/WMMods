@@ -733,7 +733,8 @@
             {"path": "config/voicechat/translations.properties", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-server.properties", "profiles": ["default", "visuals"]},
             {"path": "config/voicechat/voicechat-volumes.properties", "profiles": ["default", "visuals"]},
-            {"path": "config/notenoughanimations.json", "profiles": ["default", "visuals"]}
+            {"path": "config/notenoughanimations.json", "profiles": ["default", "visuals"]},
+            {"path": "config/malilib.json", "profiles": ["default", "visuals"]}
         ],
         "journeymap": [
             {"path": "journeymap/config/6.0/journeymap.core.config", "profiles": ["default", "visuals"]},
