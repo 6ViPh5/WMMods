@@ -511,11 +511,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/skinrestorer-2.4.2+1.21.6-fabric.jar",
-                "sha256": "7fd0b4726baf4fc9162029c697c1b9e8e594e074cace5108710bd20f8fc5cb74",
-                "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "mods/SmoothScrollingRefurbished+1.21.6-1.4.0.jar",
                 "sha256": "38a8e20f95bb41ad1698bd74998b7418b62710b6bd84722446fa138f11074185",
                 "profiles": ["visuals"]
