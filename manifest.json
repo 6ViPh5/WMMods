@@ -727,6 +727,12 @@
             {"path": "config/sodium-mixins.properties", "profiles": ["default", "visuals"]},
             {"path": "config/sodium-options.json", "profiles": ["default", "visuals"]},
             {"path": "config/waveycapes.json", "profiles": ["default", "visuals"]},
+            {"path": "config/vcinteraction/vcinteraction.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/translations.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/voicechat-client.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/translations.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/voicechat-server.properties", "profiles": ["default", "visuals"]},
+            {"path": "config/voicechat/voicechat-volumes.properties", "profiles": ["default", "visuals"]},
             {"path": "config/notenoughanimations.json", "profiles": ["default", "visuals"]}
         ],
         "journeymap": [
@@ -735,6 +741,7 @@
             {"path": "journeymap/config/6.0/journeymap.minimap.config", "profiles": ["default", "visuals"]},
             {"path": "journeymap/config/6.0/journeymap.minimap2.config", "profiles": ["default", "visuals"]},
             {"path": "journeymap/config/6.0/journeymap.rendering.config", "profiles": ["default", "visuals"]},
+            {"path": "journeymap/config/6.0/journeymap.webmap.config", "profiles": ["default", "visuals"]},
             {"path": "journeymap/config/6.0/journeymap.waypoint.config", "profiles": ["default", "visuals"]}
         ],
         "essential": [

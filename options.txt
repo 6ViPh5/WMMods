@@ -14,10 +14,10 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:1.0
+gamma:1.5
 graphicsMode:1
 guiScale:2
-maxFps:120
+maxFps:250
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -53,8 +53,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Dragon Battle Music True Ending.zip","file/Soft-Weather-1.0-Universal.zip","file/§a§lVocal Villagers §r§71.2.zip","file/LowOnFire v1.21.7§8.zip","armortrimitemfix:more_armor_trims_support","tinyskeletons:dynamically_copied_skeleton_textures"]
-incompatibleResourcePacks:["ambientsounds","appleskin","armortrimitemfix","asyncparticles","badoptimizations","balm","betterbiomeblend","betterclouds","creativecore","entityculling","justsit","mcwifipnp","mr_witherswrath","mru","netherportalfix","notenoughanimations","resourcify","shouldersurfing","skinrestorer","spark","subtle_effects","tcdcommons","trender","waveycapes","yet_another_config_lib_v3","armortrimitemfix:more_armor_trims_support"]
+resourcePacks:["vanilla","fabric","file/Dragon Battle Music True Ending.zip","file/Soft-Weather-1.0-Universal.zip","file/§a§lVocal Villagers §r§71.2.zip","file/LowOnFire v1.21.7§8.zip","armortrimitemfix:more_armor_trims_support","tinyskeletons:dynamically_copied_skeleton_textures","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["ambientsounds","appleskin","armortrimitemfix","asyncparticles","badoptimizations","balm","betterbiomeblend","creativecore","entityculling","fusion","justsit","mcwifipnp","mr_witherswrath","mru","netherportalfix","notenoughanimations","rechiseled","resourcify","spark","subtle_effects","tcdcommons","trender","waveycapes","yet_another_config_lib_v3","armortrimitemfix:more_armor_trims_support"]
 lastServer:
 lang:es_cl
 chatVisibility:0
@@ -80,9 +80,9 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -118,7 +118,7 @@ key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.advancements:key.keyboard.l
+key_key.advancements:key.keyboard.unknown
 key_key.quickActions:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -137,7 +137,7 @@ key_key.journeymap.zoom_in:key.keyboard.unknown
 key_key.journeymap.zoom_out:key.keyboard.unknown
 key_key.journeymap.minimap_type:key.keyboard.unknown
 key_key.journeymap.minimap_preset:key.keyboard.j
-key_key.journeymap.create_waypoint:key.keyboard.unknown
+key_key.journeymap.create_waypoint:key.keyboard.b
 key_key.journeymap.toggle_render_waypoints:key.keyboard.unknown
 key_key.journeymap.toggle_render_waypoints_world:key.keyboard.unknown
 key_key.journeymap.toggle_render_waypoints_map:key.keyboard.unknown
@@ -157,23 +157,17 @@ key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.unknown
 key_key.justsit.sit:key.keyboard.z
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_left:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_right:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_in:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_out:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_up:key.keyboard.unknown
-key_key.shouldersurfing.adjust_camera_down:key.keyboard.unknown
-key_key.shouldersurfing.swap_shoulder:key.keyboard.o
-key_key.shouldersurfing.toggle_first_person:key.keyboard.unknown
-key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
-key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
-key_key.shouldersurfing.free_look:key.keyboard.unknown
-key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
-key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown
-key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown
-key_key.shouldersurfing.toggle_z_offset_presets:key.keyboard.unknown
 key_key.spittingimage.spit:key.keyboard.comma
-key_key.plasmovoice.settings:key.keyboard.v
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.p
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
@@ -181,7 +175,7 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.k
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
