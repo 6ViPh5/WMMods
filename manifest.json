@@ -586,8 +586,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "mods/viph-ideas-2.2.jar",
-                "sha256": "f31a0bb99251fde39bddc95c761df29eca4372ca31404a8db57d452c168e63e3",
+                "path": "mods/viph-ideas-2.3.jar",
+                "sha256": "e17d41df36f6f1439fae10ca501706928b703c32d3d404b5b558fcbadb54fdaf",
                 "profiles": ["default", "visuals"]
             },
             {
