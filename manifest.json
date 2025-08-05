@@ -8,6 +8,16 @@
         ],
         "mods": [
 	    {
+                "path": "mods/deimos-1.21.8-fabric-2.2.jar",
+                "sha256": "a9fe1aab3f026df3c5d15896ac0b96fc397702b7ba47b4f13e418e621ff45d04",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/persistent-parrots-1.0+1.21.5.jar",
+                "sha256": "7f172f7c7a49b5ea17c7c222996d7f7ae8b91745d60fcbc05e108a79c61bf5f1",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/voicemessages-fabric-1.0.7-1.21.6.jar",
                 "sha256": "6a45237c83d574924cb040a19304923edacbabee38a8ea7e64d1144fa41f9f64",
                 "profiles": ["default", "visuals"]
