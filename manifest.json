@@ -721,6 +721,11 @@
             }
         ],
         "config": [
+            {"path": "config/sounds/chat.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sounds/event.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sounds/mod_utils.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sounds/ui.json", "profiles": ["default", "visuals"]},
+            {"path": "config/sounds/world.json", "profiles": ["default", "visuals"]},
             {"path": "config/subtle_effects/blocks.toml", "profiles": ["default", "visuals"]},
             {"path": "config/subtle_effects/entities.toml", "profiles": ["default", "visuals"]},
             {"path": "config/subtle_effects/environment.toml", "profiles": ["default", "visuals"]},
