@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/sounds-2.4.14.1+edge+1.21.8+fabric.jar",
+                "sha256": "66547373f9bf543822bdbb185bdb8e9586715b1efb2fd82add8d0d6a4c72bac2",
+                "profiles": ["visuals"]
+            },
+	    {
                 "path": "mods/deimos-1.21.8-fabric-2.2.jar",
                 "sha256": "a9fe1aab3f026df3c5d15896ac0b96fc397702b7ba47b4f13e418e621ff45d04",
                 "profiles": ["default", "visuals"]
