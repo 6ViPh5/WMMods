@@ -648,8 +648,8 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "resourcepacks/FA+All_Extensions-v1.5.2.zip",
-                "sha1": "8b0c34b81b414ca2878f3e7309ddd5bac76ba5a2",
+                "path": "resourcepacks/FA+Classic_Horses-v1.3.zip",
+                "sha1": "f1d37ac78e55db8848502bdaadfe60f97f9ebd10",
                 "profiles": ["default", "visuals"]
             },
             {
@@ -658,8 +658,13 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "resourcepacks/ToolTips-Stylized_v1.1_1.20+-1.21+.zip",
-                "sha1": "bb4827b5fc3f2e52dcf1882b55b0f85f6d81afbd",
+                "path": "resourcepacks/FA+Emissive-v1.3.zip",
+                "sha1": "15d1b9fa4fc1b0cb49feb78746811f2371da62a1",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "resourcepacks/FA+Quivers-v1.1.1.zip",
+                "sha1": "284eb94debc94f169e1df5853ab78038ad6b9ad1",
                 "profiles": ["default", "visuals"]
             }
         ],
