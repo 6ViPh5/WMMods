@@ -732,6 +732,8 @@
         ],
         "config": [
             {"path": "config/sounds/chat.json", "profiles": ["default", "visuals"]},
+            {"path": "config/ping-wheel.json", "profiles": ["default", "visuals"]},
+            {"path": "config/ping-wheel.server.json", "profiles": ["default", "visuals"]},
             {"path": "config/sounds/event.json", "profiles": ["default", "visuals"]},
             {"path": "config/sounds/mod_utils.json", "profiles": ["default", "visuals"]},
             {"path": "config/sounds/ui.json", "profiles": ["default", "visuals"]},
