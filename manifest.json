@@ -8,6 +8,16 @@
         ],
         "mods": [
 	    {
+                "path": "mods/Crossbow-Enchants-1.4.0+1.21.2-1.21.8.jar",
+                "sha256": "cbaf939fceaab86d19ee49416c3e44240c1a04356d5c57bed298bb043adaf81b",
+                "profiles": ["default", "visuals"]
+            },
+	    {
+                "path": "mods/Ping-Wheel-1.10.3-fabric-1.21.8.jar",
+                "sha256": "662749449fafea457bfa5c3830641bee3789b6cdc276f72492ec1be1e27dd97d",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/sounds-2.4.14.1+edge+1.21.8+fabric.jar",
                 "sha256": "66547373f9bf543822bdbb185bdb8e9586715b1efb2fd82add8d0d6a4c72bac2",
                 "profiles": ["visuals"]
