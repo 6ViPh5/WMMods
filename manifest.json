@@ -8,6 +8,21 @@
         ],
         "mods": [
 	    {
+                "path": "mods/effectual-1.1.0-1.21.7.jar",
+                "sha256": "c3597d056176a348b08fd81e753daecc36a6588d9d1c4f1c0c412f2eef4f77be",
+                "profiles": ["visuals"]
+            },
+	    {
+                "path": "mods/particular-1.1.1+1.21.7.jar",
+                "sha256": "5fb9f4170080462912fcd8699df03f9569075e460dacb085b33a660a5b42398e",
+                "profiles": ["visuals"]
+            },
+	    {
+                "path": "mods/wakes-0.4.2+1.21.8.jar",
+                "sha256": "496e72771446dda08700c110921bf99870b11ea9e8ba68044d0ada6f9494841a",
+                "profiles": ["visuals"]
+            },
+	    {
                 "path": "mods/Ping-Wheel-1.10.3-fabric-1.21.8.jar",
                 "sha256": "662749449fafea457bfa5c3830641bee3789b6cdc276f72492ec1be1e27dd97d",
                 "profiles": ["default", "visuals"]
