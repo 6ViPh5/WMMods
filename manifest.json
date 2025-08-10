@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/guns++-5.8.4.jar",
+                "sha256": "9bb4b8f84f067a584cc3355ebff1d0cc064bfb4e6cfaa0d7abfb46a04cd72203",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/effectual-1.1.0-1.21.7.jar",
                 "sha256": "c3597d056176a348b08fd81e753daecc36a6588d9d1c4f1c0c412f2eef4f77be",
                 "profiles": ["visuals"]
