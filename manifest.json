@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/owo-lib-0.12.22+1.21.8.jar",
+                "sha256": "20808a54ec1647dbdc2884faea0c212594b69d9d63427a9d3db805df45736775",
+                "profiles": ["visuals"]
+            },
+	    {
                 "path": "mods/tlib-1.3.0-1.21.7.jar",
                 "sha256": "eea15e16b49706f8520823e99887a028859ab7a3468db78f77b45bcaa6a22a8d",
                 "profiles": ["default", "visuals"]
