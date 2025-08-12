@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/tweakeroo-fabric-1.21.8-0.25.3.jar",
+                "sha256": "54f333eaf5e90b4522c3be23e6e3c9ff4783e93b851bb9255d292b3ffd27e3f9",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/owo-lib-0.12.22+1.21.8.jar",
                 "sha256": "20808a54ec1647dbdc2884faea0c212594b69d9d63427a9d3db805df45736775",
                 "profiles": ["visuals"]
