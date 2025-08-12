@@ -751,6 +751,7 @@
             }
         ],
         "config": [
+            {"path": "config/tweakeroo.json", "profiles": ["default", "visuals"]},
             {"path": "config/sounds/chat.json", "profiles": ["default", "visuals"]},
             {"path": "config/ping-wheel.json", "profiles": ["default", "visuals"]},
             {"path": "config/ping-wheel.server.json", "profiles": ["default", "visuals"]},
