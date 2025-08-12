@@ -720,11 +720,6 @@
                 "profiles": ["default", "visuals"]
             },
             {
-                "path": "shaderpacks/photon_v1.2a.zip",
-                "sha1": "6ad7e57f22ceb5530b168d077414abc8387c9b04",
-                "profiles": ["default", "visuals"]
-            },
-            {
                 "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
                 "sha1": "52fdb332e6de592cceb8f85f2dc756eb78afab01",
                 "profiles": ["default", "visuals"]
@@ -742,6 +737,11 @@
             {
                 "path": "shaderpacks/Visual-Vibrance-v0.3.3a.zip",
                 "sha1": "4a8e2a4696b9885267c77b729f9e6be404196493",
+                "profiles": ["default", "visuals"]
+            },
+            {
+                "path": "shaderpacks/photon_v1.2a.zip",
+                "sha1": "6ad7e57f22ceb5530b168d077414abc8387c9b04",
                 "profiles": ["default", "visuals"]
             }
         ],
