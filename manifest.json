@@ -8,6 +8,11 @@
         ],
         "mods": [
 	    {
+                "path": "mods/copperhopper-0.16.0+1.21.7.jar",
+                "sha256": "ce40f46e93b9222f133ca5043538b68153895a84e68f92dca705c7fa50c04215",
+                "profiles": ["default", "visuals"]
+            },
+	    {
                 "path": "mods/tweakeroo-fabric-1.21.8-0.25.3.jar",
                 "sha256": "54f333eaf5e90b4522c3be23e6e3c9ff4783e93b851bb9255d292b3ffd27e3f9",
                 "profiles": ["default", "visuals"]
