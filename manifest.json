@@ -8,16 +8,6 @@
         ],
         "mods": [
 	    {
-                "path": "mods/collective-1.21.7-8.4.jar",
-                "sha256": "b4d06821252d7ac8590fcfc551b9625ae3df336a22a6b3797cf09d512c7d2f1f",
-                "profiles": ["default", "visuals"]
-            },
-	    {
-                "path": "mods/transcendingtrident-1.21.7-5.0.jar",
-                "sha256": "d89a08848cd9a6dca591b30e6481b7c80d79c084e001d5af1bbc21ea205e7dab",
-                "profiles": ["default", "visuals"]
-            },
-	    {
                 "path": "mods/copperhopper-0.16.0+1.21.7.jar",
                 "sha256": "ce40f46e93b9222f133ca5043538b68153895a84e68f92dca705c7fa50c04215",
                 "profiles": ["default", "visuals"]
